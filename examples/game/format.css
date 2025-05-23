@@ -1,0 +1,19 @@
+/* CSS Document */
+
+body{
+ text-align:center;
+ background-color: #000077;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ color:#ffffff;
+ text-align:justify;
+
+	margin-left:  10px;
+	margin-top:   10px;
+	margin-right: 50px; 
+}
+
+#game{background-color: #ee6600;
+}
+#anm{margin: 10px 10px 10px 10px;  text-align:center;}
+#area{font-family: Arial; font-size: 18pt; color:#ffdd55; font-weight: bold; width:900px; height:50px;padding-left:5px; padding-top:5px;background-color:#0000aa;}

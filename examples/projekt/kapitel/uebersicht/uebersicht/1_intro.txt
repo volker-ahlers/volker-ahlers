@@ -1,0 +1,7 @@
+<h2>Guten Tag !</h2>
+<div ID="intro">
+<p>In diesem Kapitel 'Übersicht' bekommen Sie einen ersten Einblick in unser Sonnensystem, <br>den Sie anschließend in den nachfolgenden Kapiteln vertiefen können.</p>
+<p>Wir hoffen, dass Sie sehr erfolgreich und mit großem Interesse unser kleines Planetenlernsystem verfolgen!</p>
+<p>Wir wünschen Ihnen viel Spaß!</p>
+<p>Nachdem Sie alles gelesen haben (was wir empfehlen), können Sie gerne Ihr Wissen testen und Fragen zu jedem Unterkapitel beantworten!</p>
+</div>

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+		<!-- Sorgt dafür das der IE nicht nach Privilegien fragt (1A Sicherheitskonzept BTW) -->
+		<!-- saved from url=(0013)about:internet -->
+		<title>Mausi</title>
+		<link rel="stylesheet" type="text/css" href="format.css" />
+		<!-- script src="js/linkedListItem.class.js"></script -->
+		<script type="text/javascript" src="js/globals.js"></script>
+		<script type="text/javascript" src="js/cookies.js"></script>
+		<script type="text/javascript" src="js/utils.js"></script>
+		<script type="text/javascript" src="js/hilfe.js"></script>
+		<script type="text/javascript" src="js/kollision.js"></script>
+		<script type="text/javascript" src="js/select.js"></script>
+		<script type="text/javascript" src="js/areamap.class.js"></script>
+		<script type="text/javascript" src="js/coord.class.js"></script>
+
+		<script type="text/javascript" src="js/moebel.class.js"></script>
+		<script type="text/javascript" src="js/imagetemp.class.js"></script>
+		<script type="text/javascript" src="js/movemoebel.class.js"></script>
+		<script type="text/javascript" src="js/akteur.class.js"></script>		
+
+		<script type="text/javascript" src="js/bewegung.class.js"></script>
+
+		
+		<script type="text/javascript" src="js/main.js"></script>
+		
+		<script type="text/javascript">
+		function cloose(){
+		exitclose();
+		var IE = document.all?true:false;
+	        alert("Vielen Dank, dass Sie sich die Zeit genommen haben für dieses Spiel, der Spielstand wird automatisch gespeichert. Wir freuen uns, Sie wiederzusehen!");
+		if(!IE){ alert("Leider schließt der Firefox dieses Fenster nicht automatisch, bitte bedienen Sie das kleine X in der rechten, oberen Ecke"); }
+		if(IE){ window.close(); }
+		}
+		</script>
+		
+	</head>
+	
+	<body id="game">
+	
+		<div id="arena" style="width:1007px; height:760px; overflow:hidden; position:absolute; top:0px; left:0px;"> </div>
+		
+			
+   <div style="text-align:center;position:absolute; left:0;top:670px;"> 
+     <table border="0" cellpadding="5" cellspacing="0" style="height:53px;width:1000px">
+      <tr>
+        <td>
+	    <form name="Show">	
+		 <table border="0" cellpadding="0" >
+	  	    <tr align="center" valign="middle">
+			<td><textarea name="hallo" cols="50" rows="2" id="area" value="0" ></textarea></td>
+		</form>
+		</td>
+		<td valign="middle">	 		
+			<table border="0" >
+			    <tr>  
+			      <td align="center">
+				      <input type="submit" value="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hilfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" onClick="helpme();" /></td>
+				</tr>
+			    <tr>
+			      <td><input type="submit" value="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" onClick="cloose();" /></td>
+			    </tr>
+			</table>
+		  </td>
+		</tr>
+		</table>
+		
+		<!--/td>
+		<td>
+	<form name="Show2">
+	<p>
+	<input type="text" name="MouseX" value="0"  style="font-family: Verdana; font-size: 8pt; font-weight: bold;"> 
+          <input type="text" name="MouseY" value="0"  style="font-family: Verdana; font-size: 8pt; font-weight: bold;"> 
+          <input type="text" name="MouseZ" value="0"  style="font-family: Verdana; font-size: 8pt; font-weight: bold;"> 
+	<p><input type="text" name="evt" value="0"  style="font-family: Verdana; font-size: 8pt; font-weight: bold;width:800px;"> 
+	<p><input type="text" name="huhu" value="0"  style="font-family: Verdana; font-size: 8pt; font-weight: bold;width:800px;"> 
+         </form-->
+        </td>
+      </tr>
+    </table>
+   
+  </div>
+ </body>
+</html>

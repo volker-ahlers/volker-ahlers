@@ -1,0 +1,26 @@
+<h2>Entdeckung</h2>
+
+(433) Eros ist ein Asteroid, der am 13. August 1898 von Gustav Witt an der Berliner Urania-Sternwarte entdeckt wurde. Benannt wurde der Himmelskörper nach Eros, dem Gott der Liebe aus der griechischen Mythologie.
+<p>
+ 
+<h2>Bahn</h2>
+Eros war der erste bekannte Asteroid, dessen Bahn teilweise innerhalb der Marsbahn verläuft. Er gehört somit zur Klasse der erdnahen Amor-Asteroiden. Er bewegt sich in einem Abstand von 1,133 (Perihel) bis 1,783 (Aphel) astronomischen Einheiten, in 1,76 Jahren um die Sonne. Die Bahn ist um 10,83° gegen die Ekliptik geneigt, die Bahnexzentrizität beträgt 0,223
+
+<p>
+<h2>Aufbau</h2>
+
+Eros ist ein unregelmäßig geformter Himmelskörper mit 33 x 13 x 13 Kilometern Ausdehnung. Er weist eine relativ helle silikathaltige Oberfläche mit einer Albedo von 0,16 auf. Seine Dichte entspricht mit 2,4 g/cm3 etwa der Dichte von silikatischem Gestein.
+
+In rund 5 Stunden und 16 Minuten rotiert er um die eigene Achse. Messungen haben ergeben, dass die Temperaturen auf der sonnenzugewandten Seite (Tagseite) des Asteroiden auf 100 °C ansteigen, während sie auf der Nachtseite auf -150 °C abfallen. Während der Opposition erreicht er eine Helligkeit von 8,3 mag.
+
+Eros wurde vom 14. Februar 2000 bis zum 12. Februar 2001 intensiv von der Raumsonde NEAR-Shoemaker untersucht. Die Sonde war auf eine Umlaufbahn um den Asteroiden gebracht worden und landete schließlich auf seiner Oberfläche, wobei detailreiche Aufnahmen erstellt wurden. Es zeigte sich, dass Eros von Kratern übersät und von Rillen und Spalten durchzogen ist. Der Asteroid war offensichtlich heftigsten Kollisionen mit anderen Himmelskörpern ausgesetzt. Fast überall liegen Gesteinstrümmer herum, die teilweise den Einschlagskratern zugeordnet werden können.
+
+Nach den Wissenschaftlern der NEAR-Mission stammen die meisten der größeren Felsbrocken von einem Krater der vor vermutlich 1 Milliarde Jahren bei einer Kollision entstand. Dieser Einschlag könnte auch für eine mit kleinen Kratern unter 500 m übersäte Region verantwortlich sein, die 40 % der Oberfläche des Eros ausmacht. Ein Großteil der Oberfläche ist mit feinem Staub, dem Regolith, überzogen. Ursprünglich nahm man daher an, dass der Auswurf der Kollision die kleineren Krater aufgefüllt hat. Eine Analyse der Kraterdichte der Oberfläche zeigt jedoch, dass die Gebiete mit geringer Kraterdichte innerhalb von 9 km um den Einschlagpunkt verteilt liegen. Einige der weniger verkraterten Gebiete befinden sich auf der gegenüberliegenden Seite des Einschlags, sind aber trotzdem innerhalb des Abstands von 9 km. Es wird angenommen, dass sich beim Einschlag Erdbebenwellen durch den Asteroiden ausbreiteten, die die kleineren Krater einebneten. Da Eros unregelmäßig geformt ist, kann eine direkte Linie von 9 km durch das Innere des Asteroiden länger sein, als wenn man die Oberfläche entlang gehen würde, was somit zu dem ungleichförmigen Muster der Kraterdichte auf der Oberfläche führt (Thomas und Robinson, 2005).
+
+Beim Vorbeiflug wurde die Sonde durch die Schwerkraftwirkung von Eros leicht abgelenkt. Hierdurch konnte dessen Masse bestimmt werden, die ca. 7,2 x 1015 kg beträgt. Aufgrund der unregelmäßigen Form variiert die Schwerkraftbeschleunigung von Eros zwischen verschiedenen Punkten seiner Oberfläche sehr stark. Die Größenordnung der Schwerkraft ist derart gering, dass die bei ihrem Start auf der Erde 818 kg schwere Sonde auf Eros nur ein Gewicht von etwa 500 Gramm hat. Dennoch konnte an Kraterwänden offenbar Geröll herunterrutschen. Darüber rätselnde Forscher vermuten die Ursache in Schwingungen des Asteroidenkörpers, die durch Einschläge kleinerer Brocken ausgelöst werden.
+
+<p>
+<h2>Zukunft</h2>
+Vor einigen Jahren errechnete der Wiener Astronom R. Dvorak, dass Eros nach 20 Jahrmillionen auf relativ stabiler Bahn durch chaotisch wirkende Bahnstörungen in die Sonne stürzen wird.
+
+

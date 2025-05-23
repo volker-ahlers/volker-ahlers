@@ -1,0 +1,31 @@
+<h2>Asteroiden zwischen Mars und Jupiter</h2>
+ 
+<h3>Der Asteroidengürtel </h3>
+Diagramm in dem die Länge der Bahnhalbachsen der Asteroiden zwischen Mars und Jupiter gegen ihre Bahnneigung abgetragen wird (rot: Hauptgürtelobjekte, blau: sonstige Asteroidengruppen). Deutlich zu erkennen: die Kirkwoodlücken, die Hildas bei 4 AE und die Trojaner bei etwa 5,2 AE.Etwa 90 % der bekannten Asteroiden bewegen sich innerhalb der Umlaufbahnen von Mars und Jupiter. Sie füllen damit die Lücke in der Titius-Bode-Reihe. Die größten Objekte sind hier (1) Ceres, (2) Pallas, (4) Vesta und (10) Hygiea. Dabei hat Ceres den Status eines Zwergplaneten, bei anderen wird diese Einordnung noch untersucht.
+
+
+Asteroiden des Hauptgürtels
+
+Die überwiegende Mehrzahl der Objekte deren Bahnhalbachsen zwischen der Mars- und Jupiterbahn liegen sind Teil des Asteroiden-Hauptgürtels. Ihnen gemeinsam ist eine Bahnneigung unter 20° und Exzentrizitäten unter 0,25. Die meisten entstanden durch Kollisionen größerer Asteroiden in dieser Zone und bilden daher Gruppen mit ähnlicher chemischer Zusammensetzung. Ihre Umlaufbahnen werden durch die sogenannten Kirkwoodlücken, die durch Bahnresonanzen zu Jupiter gebildet werden, begrenzt. Dadurch lässt sich der Hauptgürtel in drei Zonen einteilen:
+
+Innerer Hauptgürtel: Diese Zone wird durch die 4:1 und 3:1 Resonanz begrenzt, liegt zwischen etwa 2,06 und 2,5 AE und enthält meist silikatreiche Asteroiden der V- und S-Klasse. 
+Mittlerer Hauptgürtel: Objekte in dieser Gruppe besitzen Bahnhalbachsen zwischen 2,5 und 2,8 AE. Dort dominieren Asteroiden des C-Typs. Auch der Zwergplanet Ceres bewegt sich in dieser Zone, die zwischen der 3:1-Resonanz (Hestia-Lücke) und der 5:2-Resonanz liegt. 
+Äußerer Hauptgürtel: Dieses Gebiet wird nach außen hin von der Hecubalücke (2:1 Resonanz) bei etwa 3,3 AE begrenzt. In diesem Bereich treten häufig Objekte der D- und P-Klasse auf. 
+
+Asteroiden außerhalb des Hauptgürtels
+Außerhalb des Asteroidengürtels liegen vereinzelt kleinere Asteroidengruppen, deren Umlaufbahnen meist in Resonanz zur Jupiterbahn stehen und dadurch stabilisiert werden. Außerdem existieren weitere Gruppen, die ähnliche Längen der Bahnhalbachsen aufweisen wie die Hauptgürtelasteroiden, jedoch deutlich stärker geneigte Bahnen (teilweise über 25°) oder andere ungewöhnliche Bahnelemente aufweisen:
+<ul>
+  <li><strong>Hungaria -Gruppe </strong>: Diese Gruppe besitzt Bahnhalbachsen von 1,7 bis 2 AE und steht in 2:9-Resonanz zu Mars. Sie besitzen mit einer mittleren Exzentrizit&auml;t von 0,08 fast kreisrunde Bahnen, allerdings sind diese sehr stark gegen die Ekliptik  geneigt (17&deg; bis 27&deg;).
+  <li><strong>Phocaea -Gruppe </strong>: Objekte mit einem mittleren Bahnradius zwischen 2,25 und 2,5 AE, Exzentrizit&auml;ten von mehr als 0,1, und Inklinationen zwischen 18&deg; und 32&deg;.
+  <li><strong>Alinda -Typ </strong>: Diese Gruppe bewegt sich in 3:1-Resonanz zu Jupiter und in 1:4-Resonanz zur Erde mit Bahnhalbachsen um 2,5 AE. Die Bahnen dieser Objekte werden durch die Resonanz zu Jupiter, die dieses Gebiet von Asteroiden freir&auml;umt (dort befindet sich die Hestia-L&uuml;cke), gest&ouml;rt. Wodurch die Exzentrizit&auml;ten dieser Objekte best&auml;ndig erh&ouml;ht werden, bis die Resonanz bei einer Ann&auml;herung an einen der inneren Planeten aufgel&ouml;st wird. Einige Alinda-Asteroiden haben ihr Perihel nahe oder innerhalb der Erdbahn. Ein Vertreter dieser Gruppe ist der Asteroid 4179 Toutatis .
+  <li><strong>Pallas -Familie </strong>: Eine Gruppe von Asteroiden der B-Klasse mit Bahnhalbachsen von 2,7 bis 2.8 AE und relativ hohen Bahnneigungen von &uuml;ber 30&deg;. Die Familie  besteht aus Fragmenten, die bei Zusammenst&ouml;&szlig;en aus Pallas herausgeschleudert wurden.
+  <li><strong>Cybele -Gruppe </strong>: Objekte dieser Gruppe bewegen sich jenseits der Hecuba-L&uuml;cke au&szlig;erhalb des Hauptg&uuml;rtels bei Entfernungen zwischen 3,27 und 3,7 AE und gruppieren sich um die 7:4-Resonanz zu Jupiter. Sie haben Exzentrizit&auml;ten von weniger als 0,3 und Bahneigungen unter 25&deg;.
+  <li><strong>Hilda -Gruppe </strong>:Die Hildas bewegen sich in einer Bahnresonanz von 3:2 mit dem Planeten Jupiter. Ihnen gemeinsam ist ein mittlerer Sonnenabstand zwischen 3,7 und 4,2 AE, eine Bahnexzentrizit&auml;t kleiner als 0,03 und eine Inklination kleiner als 20&deg;. </li>
+</ul>
+h2>Asteroiden außerhalb der Jupiterbahn</h2>
+<ul>
+  <li><strong>Damocloiden </strong>: Eine Gruppe von Objekten, die nach dem Asteroiden 5335 Damocles  benannt wurde. Sie haben ihr Aphel meist jenseits der Uranusbahn, aber ein Perihel im inneren Sonnensystem. Ihre kometen&auml;hnlichen Bahnen sind sehr exzentrisch und stark gegen die Ekliptik geneigt. Ihr Umlauf ist in manchen F&auml;llen r&uuml;ckl&auml;ufig . Die bekannten Objekte sind um die 8 km gro&szlig; und &auml;hneln Kometenkernen, besitzen jedoch weder Halo noch Schweif. </li>
+</ul>
+<ul>
+  <li><strong>Zentauren </strong>: Zwischen den Planeten Saturn  und Uranus  bewegt sich eine als Zentauren bezeichnete Gruppe von Asteroiden auf exzentrischen Bahnen. Der erste entdeckte Vertreter war (2060) Chiron . Die Zentauren stammen vermutlich aus dem Kuiperg&uuml;rtel  und sind durch gravitative St&ouml;rungen auf instabile Bahnen abgelenkt worden. </li>
+</ul>

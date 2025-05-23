@@ -1,0 +1,386 @@
+body {
+    font-size: 12px;
+}
+
+#container {
+    position: relative;
+    overflow: hidden;
+    width: 954px;
+    margin: 0px;
+    padding: 0px;
+    color: #2779AA;
+}
+
+.row-fluid [class*="span"] {
+    margin-left: 10px;
+}
+
+nav, #nav,
+#content,
+#view {
+    font-size: 0.8em;
+    position: relative;
+    border-collapse: collapse;
+}
+
+#content {
+    position: relative;
+}
+
+#breadcrumb {
+    padding: 5px;
+    padding-bottom: 1px;
+    position: relative;
+}
+
+#togglesearch {
+    position: absolute;
+    right: 8px;
+    top: 4px;
+    font-size: 0.8em;
+}
+
+button#downloadResource.ui-state-default,
+button.ui-state-default {
+    background: url("edeka/images/ui-bg_glass_50_3baae3_1x400.png") repeat-x scroll 50% 50% #3BAAE3;
+    border: 1px solid #2694E8;
+    color: #FFFFFF;
+}
+
+/*table*/
+table#files {
+    vertical-align: top;
+    width: 100%;
+    table-layout: fixed;
+    margin-top: 4px;
+    margin-bottom: 5px;
+    padding-bottom: 0px;
+}
+
+table#files thead tr th:first-child,
+table#files tbody tr td:first-child {
+    width: 4%;
+}
+
+table#files thead th {
+    padding: 2px 4px;
+}
+
+table#files tbody tr {
+    cursor: pointer;
+}
+
+table#files tbody tr td div {
+    white-space: nowrap;
+    overflow: hidden;
+    line-height: 18px;
+}
+
+table#files thead tr th {
+    text-align: left;
+}
+
+table#files,
+#view,
+#view label,
+#view input,
+#view textarea {
+    font-size: 0.9em;
+    font-weight: normal;
+    color: #2779AA;
+}
+
+table#files tfoot tr th button {
+    font-size: 0.8em;
+    padding: 2px 10px;
+    line-height: 0.8em;
+}
+
+.tablesorter-filter-row {
+    display: none;
+}
+
+.tablesorter-jui td {
+    padding: 4px;
+    padding-bottom: 3px;
+    vertical-align: middle;
+}
+
+table#files thead tr td input.tablesorter-filter {
+    padding: 1px 4px;
+    line-height: 16px;
+    font-size: 0.9em;
+}
+
+table#files tbody tr td.check input {
+    margin: 0px;
+}
+
+table#files thead tr th.check_all div div{
+    background: url("edeka/images/ui-icons_2e83ff_256x240.png") -210px -191px  no-repeat;
+    padding-right: 15px;
+}
+
+table#files thead tr th.uncheck_all div div {
+    background: url("edeka/images/ui-icons_2e83ff_256x240.png") -34px -191px  no-repeat;
+    padding-right: 15px;
+}
+
+#previewcontainer .downloadLink {
+    text-indent: 35px;
+}
+
+/*navigation*/
+#nav li,
+nav li {
+    list-style: none;
+}
+
+#nav a,
+nav a {
+    display: block;
+    color: #2779AA;
+    font-weight: bold;
+    cursor: hand;
+    font-size: 0.8em;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+
+nav a.maincathegory,
+#nav a.maincathegory {
+    color: #FFF;
+    background: url("edeka/images/ui-bg_glass_50_3baae3_1x400.png") repeat-x scroll 50% 50% #3BAAE3;
+    border: 1px solid #2694E8;
+    font-size: 1em;
+}
+
+#nav .subnavi1 a,
+nav .subnavi1 a {
+    padding: 3px 0;
+}
+
+#nav ul,
+#nav div,
+nav div {
+    display: none;
+}
+
+.ui-accordion .ui-accordion-content {
+    border-top: 0 none;
+    overflow: auto;
+    padding: 0;
+}
+
+.ui-accordion .ui-accordion-icons {
+    padding-left: 1.7em;
+}
+
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+    left: 0.2em;
+}
+
+#nav div.subnavi1 {
+    text-indent: 10px;
+    white-space: nowrap;
+    overflow-x: hidden;
+}
+
+nav .subnavi2,
+#nav .subnavi2 {
+    text-indent: 20px;
+}
+
+#files tr td {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+#files tr.read td {
+    font-weight: normal;
+    color: #bbb;
+    font-size: 0.9em;
+}
+
+#files tr.read.odd td {
+    color: #49A1CC;
+}
+
+#files tr.active td {
+    font-weight: bold;
+    color: #F00;
+}
+
+#files tr.active.read td {
+    font-weight: bold;
+    color: #F55;
+}
+
+#files td.priority span {
+    display: none;
+}
+
+#files td.priority div {
+    position: relative;
+}
+
+#files tr.high td.priority span {
+    background: url("edeka/images/ui-icons_3d80b3_256x240.png");
+    background-repeat: no-repeat;
+    background-position: -36px -143px;
+    width: 10px;
+    height: 16px;
+    display: block;
+    position: absolute;
+    right: 5px;
+    top: 1px;
+}
+
+#files tr.high.read td.priority span {
+    background: url("edeka/images/ui-icons_72a7cf_256x240.png");
+    background-repeat: no-repeat;
+    background-position: -36px -143px;
+
+}
+
+/**preview*/
+#detailscontainer,
+#previewcontainer {
+    display: none;
+    padding: 30px 10px 5px 10px;
+    position: relative;
+    margin-top: 5px;
+}
+
+#detailscontainer #details,
+#previewcontainer #preview {
+    font-weight: bold;
+    font-size: 1em;
+    background-color: #FFF;
+    position: absolute;
+    padding: 3px;
+    top: -3px;
+    left: -4px;
+}
+
+#detailscontainer textarea,
+#detailscontainer input {
+    width: 170px;
+}
+
+#detailscontainer textarea {
+    height: 40px;
+}
+
+#detailscontainer #downloadResource {
+    font-size: 0.8em;
+}
+
+#showpreview div.downloadLink {
+    position: relative;
+    cursor: pointer;
+    text-align: right;
+}
+
+#showpreview div.downloadLink span {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    background: url("edeka/images/ui-icons_3d80b3_256x240.png") -36px -95px no-repeat;
+    width: 10px;
+    height: 16px;
+}
+
+/* pager wrapper, in thead/tfoot */
+td.tablesorter-pager {
+    background-color: #e6eeee;
+    margin: 0; /* needed for bootstrap .pager gets a 18px bottom margin */
+}
+
+/* pager navigation arrows */
+.tablesorter-pager img {
+    vertical-align: middle;
+    margin-right: 2px;
+    cursor: pointer;
+}
+
+/* pager output text */
+.tablesorter-pager .pagedisplay {
+    padding: 0 5px 0 5px;
+    width: auto;
+    white-space: nowrap;
+    text-align: center;
+}
+
+/* pager element reset (needed for bootstrap) */
+.tablesorter-pager select {
+    margin: 0;
+    padding: 0;
+}
+
+/*** css used when "updateArrows" option is true ***/
+/* the pager itself gets a disabled class when the number of rows is less than the size */
+.tablesorter-pager.disabled {
+    display: none;
+}
+
+/* hide or fade out pager arrows when the first or last row is visible */
+.tablesorter-pager .disabled {
+    visibility: hidden;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    cursor: default;
+}
+
+th.ui-corner-all {
+    border-radius: 0px;
+}
+
+/*progressbar*/
+.ui-progressbar {
+    position: relative;
+}
+
+.ui-progressbar h5 {
+    position: absolute;
+    margin: 3px 0;
+    text-align: center;
+    width: 300px;
+    background: url("../img/spacer.gif") transparent;
+}
+
+.progress-label {
+    text-shadow: 1px 1px 0 #fff;
+}
+
+div#background {
+    position: absolute;
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    opacity: 0.5;
+    -moz-opacity: 0.5;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    display: none;
+}
+
+div#progressbar {
+    z-index: 5;
+    width: 300px;
+    display: none;
+}
+
+#themeswitch {
+    width: 180px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#footer {
+    position: absolute;
+    bottom:0;
+    right: 256px;
+    color: #49A1CC;
+    font-size: 0.8em;
+}

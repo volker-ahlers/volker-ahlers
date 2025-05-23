@@ -1,0 +1,15 @@
+<h2>Einschlagswahrscheinlichkeit und -wirkung</h2>
+Asteroiden, die mit wesentlich größeren Himmelskörpern wie Planeten kollidieren, erzeugen Einschlagkrater. Größe der Einschlagkrater und die damit verbundene Energiefreisetzung (Explosion) von Zusammenstößen werden maßgeblich durch Geschwindigkeit, Größe, Masse und Zusammensetzung der Asteroiden bestimmt.
+
+Es gibt 2 gebräuchliche Methoden zur Bewertung des Einschlagrisikos von Asteroiden auf der Erde und der damit verbundenen Energiefreisetzung bzw. Zerstörungskraft: die Torinoskala und die Palermo-Skala. 
+Die Torinoskala ist anschaulich und einfach gehalten. Sie ist in ganzzahlige Stufen von 0 bis 10 eingeteilt, wobei "0" keine Gefahr bedeutet und Stufe "10" einem sicheren Einschlag mit großer globaler Zerstörungswirkung entspricht. Von dieser Skala wird eher in den Medien Gebrauch gemacht, da sie einfacher zu verstehen ist als die Palermo-Skala.
+
+Letztere wiederum findet in der Astronomie häufigere Anwendung, da sie physikalisch aussagekräftiger ist. Sie setzt die Einschlagswahrscheinlichkeit mit dem Hintergrundrisiko durch Objekte vergleichbarer Größe in Verbindung. Die Palermo-Skala ist logarithmisch aufgebaut: Ein Wert von 0 auf der Palermo-Skala entspricht dem einfachen Hintergrundrisiko (1=100), 1 entspricht 10-fachem Risiko (10=101), 2 dem 100-fachen Risiko (100=102) usw.
+
+<h2>Enge Begegnungen mit erdnahen Asteroiden</h2>
+<ul>
+  <li>Am 18. M&auml;rz 2004 passierte um 23:08 Uhr MEZ der Asteroid 2004 FH , ein Gesteinsbrocken mit etwa 30 m Durchmesser, die Erde &uuml;ber dem s&uuml;dlichen Atlantik in einem Abstand von nur 43.000 km.
+  <li>Der nur etwa sechs Meter gro&szlig;e Asteroid 2004 FU 162  n&auml;herte sich der Erde am 31. M&auml;rz 2004 auf 6.500 km. Kein anderer derzeit bekannter Kleinplanet ist der Erde n&auml;her gekommen.
+  <li>Am 13. April 2029 wird der Asteroid (99942) Apophis  die Erde passieren: Nur etwa der dreifache Erddurchmesser werde zwischen der Erde und dem Asteroiden liegen. Solch ein Ereignis kommt laut Angaben der Universit&auml;t in Michigan nur alle 1300 Jahre vor.
+  <li>Der Asteroid (29075) 1950 DA  wird der Erde am 16. M&auml;rz 2880 sehr nahe kommen, auch die M&ouml;glichkeit einer Kollision mit der Erde besteht. Die Wahrscheinlichkeit daf&uuml;r liegt allerdings bei nur 0,33 %. </li>
+</ul>

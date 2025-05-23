@@ -1,0 +1,79 @@
+﻿#img-container.red .cropper-crop-box .cropper-point {
+    background-color: #f00 !important;
+}
+
+#img-container.white .cropper-crop-box .cropper-point {
+    background-color: #fff !important;
+}
+
+
+#img-container.black .cropper-crop-box .cropper-point {
+    background-color: #000 !important;
+}
+
+#img-container.red .cropper-crop-box .cropper-view-box {
+    background-color: #f00 !important;
+    outline-color: rgba(255,0,0,.75);
+}
+
+#img-container.white .cropper-crop-box .cropper-view-box {
+    background-color: #fff !important;
+    outline-color: rgba(255,255,255,.75);
+}
+
+
+#img-container.black .cropper-crop-box .cropper-view-box {
+    background-color: #000 !important;
+    outline-color: rgba(0,0,0,.75);
+}
+
+.frameColors {
+    padding: 5px 10px;
+    justify-content: flex-end;
+    align-items: center; 
+}
+
+@media (max-width: 767px) {
+    .frameColors {
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: flex-end;
+    }
+
+    .frameColors div {
+        margin-top: 10px;
+    }
+}
+
+.frameColors input {
+    visibility: hidden;
+}
+
+.frameColors div {
+    align-items: center;
+}
+
+.frameColors label {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #39f;
+    display: block;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.frameColors #colorBlack + label {
+    border-color: #000;
+}
+
+.frameColors #colorRed + label {
+    border-color: #f00;
+}
+
+.frameColors #colorWhite + label {
+    border-color: #fff;
+}
+
+.frameColors .form-check-input:checked + label {
+    border-radius: 50%;
+}

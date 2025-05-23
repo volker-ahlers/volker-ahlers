@@ -1,0 +1,7 @@
+<h2>Guten Tag !</h2>
+<div ID="intro">
+<p>In diesem Kapitel 'Planeten' erfahren Sie alles über die Planeten unseres Sonnensystems.</p>
+<p>Wir hoffen, dass Sie weiter sehr erfolgreich sind und mit großem Interesse unser kleines Planetenlernsystem verfolgen!</p>
+<p>Wir wünschen Ihnen viel Spaß!</p>
+<p>Nachdem Sie alles gelesen haben (was wir empfehlen), können Sie gerne Ihr Wissen testen und Fragen zu jedem Unterkapitel beantworten!</p>
+</div>

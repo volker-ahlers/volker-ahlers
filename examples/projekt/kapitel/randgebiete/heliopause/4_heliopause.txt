@@ -1,0 +1,11 @@
+<h2>Heliopause</h2>
+
+Die Heliopause ist ein Fachbegriff der Astronomie. Er bezeichnet die Zone am Rand unseres Sonnensystems, in welcher der Sonnenwind vom interstellaren Gas gestoppt wird.
+<p>
+Die Grenzschicht zwischen Sonnenwind und interstellarem Medium bildet die Heliopause, die man in einer Entfernung von ungef‰hr 150 AE ñ dem 150fachen Abstand von Erde-Sonne oder dem 4fachen von Pluto-Sonne ñ vermutet. Der genaue Abstand ist jedoch bis heute nicht bekannt.
+<p>
+Der von der Sonne emittierte Wind aus heiﬂem Plasma (Elektronen, Protonen und anderen Ionen) bl‰st gewissermaﬂen eine ÑBlaseì in das interstellare Gas. Die Blase endet dort, wo der Sonnenwind nicht mehr stark genug ist, um das interstellare Gas zur¸ckzudr‰ngen. Dieser Bereich heiﬂt Heliopause und gilt allgemein als die ‰uﬂere Grenze unseres Sonnensystems.
+<p> 
+Details der Heliosph‰reDie Entfernung zur Heliopause ist nicht genau bekannt. Sie ist vermutlich deutlichen Schwankungen unterlegen, abh‰ngig von der Ausrichtung unseres Sonnensystems in der Milchstraﬂe, der aktuellen St‰rke des Sonnenwindes und der lokalen Dichte des interstellaren Gases. Sie liegt aber sicher weit auﬂerhalb der Umlaufbahn des Pluto. Gemeinhin wird eine durchschnittliche Entfernung von ca. 150 AE bzw. 22,5 Milliarden Kilometern zur Sonne als Zentrum unseres Sonnensystems angenommen.
+<p>
+Der Termination Shock ist eine ‰hnliche Grenze, hier werden die Sonnenwindteilchen jedoch auf Unterschallgeschwindigkeit abgebremst.

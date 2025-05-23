@@ -1,0 +1,24 @@
+<h2>Umlaufbahn</h2>
+ 
+Die Bahn von Ceres (gelb) im Vergleich zu der des Mars (rot), Objektgrößen nicht maßstabsgerechtCeres bewegt sich in der Mitte des Asteroidengürtels, in einem mittlerem Abstand von 2,77 AE, in 1.682 Tagen um die Sonne. Die Periheldistanz beträgt 2,54 AE, die Apheldistanz 2,99 AE. Die Umlaufbahn ist um 10,6° gegen die Ekliptik geneigt, die Bahnexzentrizität beträgt 0,080.
+<p>
+Die synodische Periode von Ceres liegt bei 467 Tagen. Während der Opposition ist sie zwischen 1,59 AE und 2,00 AE von der Erde entfernt und erreicht eine scheinbare Helligkeit von bis zu 6,7mag. Ceres kann daher bereits mit einem Fernglas oder einem kleinen Teleskop aufgesucht werden.
+
+
+<h2>Beschaffenheit</h2>
+
+Größe und Masse
+Ceres ist das größte und massenreichste Objekt des Asteroidengürtels im inneren Sonnensystem. Für die Masse wurde ein Wert von 4,70±0.04×10-10 Sonnenmassen (9,35×1020 kg) publiziert. (Lit.: Michalak, 2000) Ceres hat damit etwa 3,5 mal mehr Masse als der zweitschwerste Asteroid (4) Vesta, und vereinigt etwa 30 % der Gesamtmasse des Asteroidengürtels in sich.
+<p>
+Beobachtungen mit dem Weltraumteleskop Hubble haben gezeigt, dass Ceres beinahe kugelförmig ist, mit einem Äquatorradius von 487 km und einem Polarradius von 455 km (±5 km). (Lit.: Parker et. al., 2004) Die Rotationsperiode beträgt 9,075 Stunden, die mittlere Dichte wird mit 2,077±0,036 g/cm3 angegeben.
+
+
+<h2>Oberfläche</h2>
+Ceres besitzt eine dunkle kohlenstoffreiche Oberfläche mit einer Albedo von 0,09. Radarbeobachtungen haben ergeben, dass die gesamte Oberfläche gleichmäßig von pulverigem Regolith bedeckt zu sein scheint. (Lit.: Mitchell et. al., 1996) Herausragende oder isolierte Oberflächenmerkmale wurden erst im Jahr 2001 nach Beobachtungen mit dem Hubble Space Telescope festgestellt: Es zeigte sich ein dunkler Fleck mit einem Durchmesser von etwa 250 km, der zu Ehren des Entdeckers von Ceres „Piazzi“ benannt wurde. (Lit.: Parker et. al, 2002) Weitere Beobachtungen mit Hubble in den Jahren 2003 und 2004 ermöglichten die Erstellung einer Karte, die neben „Piazzi“ und einem auffälligen, hellen Fleck mit rund 400 km Durchmesser zahlreiche kleinere Oberflächenmerkmale zeigt, deren Ursprung noch unbekannt ist. (Lit.: Li et. al., 2005)
+
+
+<h2>Zusammensetzung</h2>
+ 
+Innerer AufbauDie Messungen des Weltraumteleskops Hubble lassen auch Rückschlüsse auf die Zusammensetzung von Ceres zu: Man geht davon aus, dass es sich um einen differenzierten Zwergplaneten mit einem steinigen Kern sowie einem Mantel und einer Kruste aus leichteren Mineralien und Wassereis handelt. (Lit.: Thomas et. al., 2005) Die Differenzierung geht vermutlich auf die beim radioaktiven Zerfall des Aluminium-Isotopes 26Al freigesetzte Wärme zurück, wodurch sich bereits in der Frühzeit des Sonnensystems ein Mantel aus flüssigem Wasser gebildet haben dürfte. Die äußeren zehn Kilometer schmolzen allerdings nicht auf, sondern bildeten eine feste Kruste aus Eis, während sich schweres Material (Silikate, Metalle) im Kern sammelten. Insgesamt dürfte Ceres zu 17 bis 27 Gewichtsprozent aus Wasser bestehen. (Lit.: McCord et. al., 2005) Die Süßwassermenge auf Ceres wird auf etwa das fünffache der auf der Erde verfügbaren Süßwasservorräte geschätzt.
+<p>
+Trotz des planetenähnlichen Aufbaus wurde aus Ceres kein richtiger Planet. Vermutlich verhinderte die starke Gravitation des benachbarten Jupiter, dass Ceres genügend Masse ansammeln konnte um sich von einem Planetesimal zu einem großen Planeten zu entwickeln.

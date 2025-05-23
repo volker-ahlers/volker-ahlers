@@ -1,0 +1,1 @@
+<?php copy("../" . $_REQUEST["testfile"], "../" . $_REQUEST["origfile"]); ?>

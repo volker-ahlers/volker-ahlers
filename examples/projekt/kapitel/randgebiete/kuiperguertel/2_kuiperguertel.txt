@@ -1,0 +1,38 @@
+Der Kuipergürtel ist eine scheibenförmige Region, die sich im Sonnensystem außerhalb der Neptunbahn in einer Entfernung von ungefähr 30 bis 50 Astronomischen Einheiten (AE) nahe der Ekliptik erstreckt und schätzungsweise mehr als 70.000 Objekte beherbergt, die je einen Durchmesser von mehr als 100 km haben.
+
+<h2>Benennung</h2>
+
+Der Kuipergürtel ist nach Gerard Kuiper benannt, der 1951 einen Artikel über Objekte jenseits des Pluto veröffentlichte. Da diese Theorie jedoch kaum mit der heutigen Sicht dieser Region übereinstimmt, ist vor allem im englischsprachigen Raum auch häufiger vom Edgeworth Belt oder Edgeworth-Kuiper Belt (nach Kenneth Edgeworth, 1943) die Rede. Die in dem englischsprachigen Raum verwendete Bezeichnung „Edgeworth-Kuiper-Belt“ ist auch die historisch korrektere Benennung, da sowohl Edgeworth (1949) als auch Kuiper (1951) unabhängig voneinander die These aufgestellt hatten, dass sich hinter der Neptunbahn ein Bereich befindet, in dem sich aus planetarischem Material (Staub) Kometen bilden. Die Objekte in diesem Bereich werden als Kuiper Belt Objects (KBO) oder transneptunische Objekte (TNO) bezeichnet.
+<p>
+
+<h2>Klassifizierung</h2>
+
+Die bis jetzt zirka 800 bekannten Objekte dieser Region lassen sich aufgrund ihrer Bahnelemente in mehrere unterschiedliche Gruppen unterteilen:
+
+<ul>
+  <li><em>Resonante KBOs </em> sind Objekte, die sich auf resonanten  Bahnen zu Neptun bewegen und dadurch in ihrer Bahn bei ungef&auml;hr 40&nbsp;AE stabilisiert werden (zum Beispiel Plutinos  mit einer 3:2 Resonanz). 1/3 der heute bekannten KBOs sind resonante KBOs.
+  <li><em>Klassische KBOs </em> (CKBO oder Cubewanos ) bewegen sich mit kleinen Exzentrizit&auml;ten  auf nahezu kreisf&ouml;rmigen Bahnen zwischen 41 und 50&nbsp;AE mit Bahnneigungen  von bis zu 30&deg;. Die Bezeichnung <em>Cubewano </em> leitet sich vom Asteroiden 1992 QB 1  ab (Q&nbsp;B&nbsp;One), der als erstes dieser Objekte entdeckt wurde. Etwa 2/3 der bekannten KBOs bewegen sich auf einer solchen kreis&auml;hnlichen Bahn um die Sonne.
+  <li><em>Gestreute KBOs </em> (SKBO oder SDO ) bewegen sich mit gro&szlig;en Exzentrizit&auml;ten  auf Bahnen mit Periheldistanzen  nahe 35&nbsp;AE und Apheldistanzen  bis 1000&nbsp;AE. Bis jetzt sind erst wenige dieser gestreuten KBOs bekannt (zum Beispiel 1996 TL 66  mit einer stark elliptischen Bahn und einer Bahnneigung von 24&deg;). </li>
+</ul>
+<p>
+Seit 1978 ist bekannt, dass Pluto mit Charon  einen sehr gro&szlig;en Begleiter hat, man spricht deshalb auch vom <em>Pluto-Charon-System </em>. Zwischen 1997  und 2001  wurden unter den bis dahin bekannten etwa 500 KBOs weitere acht Zweifachsysteme gefunden, die sich auf alle drei KBO-Gruppen verteilen.
+</p>
+
+<h2>Entstehung</h2>
+
+<p>Die KBOs sind w&auml;hrend der Planetenbildung vermutlich nahe der Region entstanden, in der sie heute beobachtet werden. W&auml;hrend sich im dichteren inneren Bereich sehr schnell sehr viele Planetesimale  bildeten und sehr bald zu Planeten  heranwuchsen, vollzog sich dieser Vorgang in den d&uuml;nneren &auml;u&szlig;eren Bereichen sehr viel langsamer. Die &Uuml;berbleibsel bilden die heute beobachtbaren KBOs. </p>
+<p>Die CKBOs bewegen sich nahezu kreisf&ouml;rmig, wie man es f&uuml;r in diesem Bereich entstandene Objekte erwartet. Die teilweise recht gro&szlig;en Inklinationen  erfordern jedoch einen Mechanismus, der sie aus der Ekliptik ablenkt. Dieser Mechanismus  ist noch nicht verstanden: </p>
+
+<ul>
+  <li>Eine M&ouml;glichkeit besteht darin, dass Neptun  in den fr&uuml;hen Phasen der Planetenentwicklung massive Planetesimale (gr&ouml;&szlig;er als die Erde ) in den Kuiperg&uuml;rtel gestreut hat. Diese massiven Objekte k&ouml;nnten die gro&szlig;en Bahnneigungen erkl&auml;ren, aber sie h&auml;tten auch die resonanten KBOs st&auml;rker abgelenkt als es den heutigen Beobachtungen entspricht.
+  <li>Ein nahe vorbeiziehender Stern verursachte die Auslenkung aus der Ekliptik. Dieser Prozess w&uuml;rde die resonanten KBOs verschonen und auch den &auml;u&szlig;eren Rand des Kuiperg&uuml;rtels bei 50&nbsp;AE erkl&auml;ren, aber der Stern h&auml;tte sich der Sonne auf einige hundert AE n&auml;hern m&uuml;ssen. </li>
+</ul>
+
+<p>
+Die SKBOs wurden vermutlich w&auml;hrend der Entstehung des Planetensystems von den gro&szlig;en Planeten nach au&szlig;en gestreut. Ein Teil wurde von Neptun auf Bahnen nahe 35&nbsp;AE Periheldistanz eingefangen, der Rest wurde weiter hinaus gestreut und hat sogar teilweise das Sonnensystem verlassen. Die Bildungsprozesse der Zweifachsysteme  sind bisher reine Spekulation. Das Hauptproblem der meisten Vorschl&auml;ge ist dabei die gro&szlig;e Anzahl dieser Systeme aus gro&szlig;en KBOs.
+</p>
+
+<h2>Kometen </h2>
+<p>
+Man vermutet, dass ein Gro&szlig;teil der Kometen  mit mittleren Perioden aus dem Kuiperg&uuml;rtel stammt. W&auml;hrend man fr&uuml;her davon ausging, dass die Kometenkerne nahezu unver&auml;ndert aus ihrer Bahn geworfene KBOs sind, geht man heute jedoch davon aus, dass es sich bei den Kometenkernen um Fragmente handelt, die aus Zusammenst&ouml;&szlig;en von KBOs stammen.
+</p>

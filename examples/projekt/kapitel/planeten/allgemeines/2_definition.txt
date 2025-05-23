@@ -1,0 +1,28 @@
+<h2>Allgemein </h2>
+<p>Ein Planet im engeren Sinn ist ein Himmelsk&ouml;rper, der (a) sich auf einer keplerschen Umlaufbahn um die Sonne bewegt, (b) dessen Masse gro&szlig; genug ist, dass sich das Objekt im hydrostatischen Gleichgewicht befindet – und somit eine n&auml;herungsweise kugel&auml;hnliche Gestalt besitzt – und der (c) das dominierende Objekt seiner Umlaufbahn ist, das hei&szlig;t, der diese von weiteren Objekten „ger&auml;umt“ hat. </p>
+<p>Im weiteren Sinn der extrasolaren Planeten versteht man darunter auch einen entsprechend gro&szlig;en K&ouml;rper, der einen anderen Stern uml&auml;uft, im Innern frei von Kernfusionsprozessen ist und sichtbares Licht somit nur reflektiert und nicht selbst aussendet. </p><h2>Definition </h2>
+<p>Es gab bis zum August 2006 kein klar definiertes Unterscheidungsmerkmal zwischen Planeten und Asteroiden. So war der Planetenstatus von Pluto aufgrund seiner geringen Gr&ouml;&szlig;e und seiner stark elliptischen sowie gegen die Ekliptik geneigten Bahn umstritten. Viele Astronomen rechneten ihn dem Kuiperg&uuml;rtel zu, einem Reservoir von Kometen und Asteroiden, das im Inneren bis an die Neptunbahn heranreicht. K&uuml;rzlich entdeckte, &auml;hnlich gro&szlig;e Himmelsk&ouml;rper im Kuiperg&uuml;rtel, insbesondere Eris, haben letztendlich zur Aberkennung des Planetenstatus Plutos gef&uuml;hrt. </p>
+<p>Die unter anderem auch f&uuml;r die Namensgebung von Himmelsk&ouml;rpern zust&auml;ndige Internationale Astronomische Union (IAU) hat im Jahr 2004 ein Komitee eingesetzt, das verbindliche Kriterien f&uuml;r die Definition eines Planeten erarbeiten sollte. Auf der 26. Generalversammlung der IAU 2006 in Prag wurden am 24. August offizielle Definitionen f&uuml;r verschiedene Klassen der die Sonne umlaufenden Himmelsk&ouml;rper verabschiedet. Damit wurde auch die neue Klasse der Zwergplaneten definiert. F&uuml;r Planeten und Zwergplaneten jenseits der Neptunbahn war urspr&uuml;nglich die Bezeichnung Plutonen vorgeschlagen worden, deren Prototyp Pluto gewesen w&auml;re. Weil aber bereits in der Geologie ein gleichlautender Fachbegriff verwendet wird, kam es hinsichtlich dieser Namensgebung zu keiner Einigung. </p>
+<p><strong>Demnach ist ein Himmelsk&ouml;rper ein Planet, wenn er … </strong></p>
+<ul>
+  <li>… sich auf einer Bahn um die Sonne befindet und </li>
+  <li>… &uuml;ber eine ausreichende Masse verf&uuml;gt, um durch seine Eigengravitation eine ann&auml;hernd runde Form (hydrostatisches Gleichgewicht) zu bilden und </li>
+  <li>… die Umgebung seiner Bahn bereinigt hat. </li>
+</ul>
+<p><strong>Ein Himmelsk&ouml;rper ist ein Zwergplanet, wenn er … </strong></p>
+<ul>
+  <li>… sich auf einer Bahn um die Sonne befindet und </li>
+  <li>… &uuml;ber eine ausreichende Masse verf&uuml;gt, um durch seine Eigengravitation eine ann&auml;hernd runde Form (hydrostatisches Gleichgewicht) zu bilden und </li>
+  <li>… die Umgebung seiner Bahn <strong>nicht </strong> bereinigt hat und </li>
+  <li>… kein Mond ist. </li>
+</ul>
+<p>Demnach ist Pluto nun ein Zwergplanet, ebenso wie Ceres und Eris. </p>
+<h2>Kritik an der Definition </h2>
+<p>An der in Prag beschlossenen Planetendefinition regt sich Kritik von Astronomen. Eine Expertenkommission hatte im Vorfeld der Konferenz eine Definition erarbeitet, die eine Erh&ouml;hung der Planetenanzahl auf 12 vorsah. Dies hatte zu hitzigen Diskussionen gef&uuml;hrt, die zu der schlie&szlig;lichen Kompromissdefinition gef&uuml;hrt hatten. Hauptkritikpunkte an der verabschiedeten Definition sind: </p>
+<ul>
+  <li>Die Abstimmung erfolgte am letzten Tag der Konferenz, als von 2.500 angereisten Astronomen der IAU nur noch 424 Delegierte anwesend waren. </li>
+  <li>Die Definition sei sehr „schlampig“ erarbeitet, da nach ihr auch Erde, Mars, Jupiter und Neptun eigentlich ihren Planetenstatus verlieren w&uuml;rden, denn diese K&ouml;rper erf&uuml;llen nicht den Punkt&nbsp;3 der Definition, der Pluto den Planetenstatus gekostet hat. Im Sonnenorbit der Erde befinden sich rund 10.000 Asteroiden, in dem des Jupiters sogar um die 100.000. </li>
+  <li>Ein weiterer Kritikpunkt ist, dass durch die Herabstufung von Pluto Millionen von B&uuml;chern umgeschrieben werden m&uuml;ssen. Dieser Kritikpunkt ist jedoch eher schwach zu bewerten, da durch neue wissenschaftliche Erkenntnisse st&auml;ndig Lehrb&uuml;cher neu geschrieben werden m&uuml;ssen. </li>
+</ul>
+<p>In den Astronomenkreisen ist nach der Abstimmung eine Petition gelaufen und fand bis zu ihrer Schlie&szlig;ung am 31.&nbsp;August 305 Unterschriften, die eine Aufhebung dieser Definition und eine neue Abstimmung fordern. </p>
+<p>Zu Gunsten der beschlossenen Definition kann die von Steven Soter eingef&uuml;hrte planetarische Diskriminante genannt werden. Sie gibt das Verh&auml;ltnis der Masse eines K&ouml;rpers zu der Masse der sonstigen Objekte in seiner Umlaufbahn an, sofern es sich dabei um keine Monde oder resonant umlaufende Himmelsk&ouml;rper handelt. Aufgrund einer planetarischen Diskriminante von 1.700.000 beherrscht die Erde ihre Umlaufbahn mehr als jeder andere Planet unseres Sonnensystems. Ebenfalls sehr dominant sind Venus und Jupiter. Von den acht Planeten besitzt Neptun die kleinste planetarische Diskriminante. Mit 24.000 ist sie aber immer noch deutlich gr&ouml;&szlig;er als die gr&ouml;&szlig;te Diskriminante eines Zwergplaneten. Bei Ceres betr&auml;gt der Wert 0,33 und bei Pluto gar nur 0,077. </p>

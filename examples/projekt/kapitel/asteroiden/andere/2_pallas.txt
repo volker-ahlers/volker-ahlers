@@ -1,0 +1,23 @@
+<h2>Pallas</h2>
+<p>
+<h2>Entdeckung</h2>
+
+Pallas wurde am 28. März 1802 von Heinrich Wilhelm Olbers entdeckt, und nach der griechischen Göttin Pallas Athene benannt. Die Entdeckung erfolgte zufällig, als Olbers den ein Jahr zuvor entdeckten und heute als Zwergplanet klassifizierten Ceres aufsuchen wollte. Nach der Entdeckung von Ceres hatte Olbers, wie die anderen Astronomen seiner Zeit, nicht damit gerechnet, noch einen weiteren Planeten zwischen Mars und Jupiter zu finden, da man glaubte, den von der Titius-Bode-Reihe vorhergesagten Planeten in diesem Bereich des Sonnensystems gefunden zu haben. Olbers vertrat daher die Hypothese, dass es sich bei Ceres und Pallas um Bruchstücke eines größeren, zerbrochenen Planeten handele.
+<p>
+Ebenso wie Ceres wurde Pallas unmittelbar nach seiner Entdeckung als vollwertiger Planet angesehen, somit galten im Jahre 1802 neun Himmelskörper als Planeten. Nach der Entdeckung von Juno im Jahre 1804 und Vesta im Jahre 1807 erhöhte sich die Zahl der Planeten auf elf. Dabei bleib es bis 1845. Dann wurde mit Astraea der fünfte Asteroid entdeckt, und auch dieser wurde zunächst als Planet geführt. Nach der Entdeckung des „echten“ Planeten Neptun im Jahre 1846 galten sogar 13 Himmelskörper als Planeten. Da sich ab 1847 die Neuentdeckungen der Asteroiden häuften, wurden diese fortan von den Planeten unterschieden. Die Zahl der vollwertigen Planeten sank dadurch auf acht.
+<p>
+Wilhelm Herschel, der 1781 Uranus entdeckt hatte, versuchte den Durchmesser von Ceres und Pallas zu bestimmen, was ihm einige Schwierigkeiten bereitete: Die beiden Objekte erschienen in seinem Teleskop praktisch sternförmig (also ohne messbare Ausdehnung wie die klassischen Planeten). Herschel schlug daher bereits 1802 vor, Ceres und Pallas als „Asteroiden“ (griechisch für „sternartig“), zu bezeichnen und damit von den großen Planeten abzugrenzen. Seine Ansicht wurde zu dieser Zeit aber nur von wenigen Astronomen geteilt. Erst als um 1850 die Zahl der zwischen Mars und Jupiter gefundenen Himmelskörper rasch anstieg, wurden sie unter den Bezeichnungen „Asteroiden“, „Planetoiden“, „Kleine Planeten“ oder „Kleinplaneten“ zusammengefasst. Seit dem 24. August 2006 wird außerdem Ceres als Zwergplanet bezeichnet.
+<p>
+Das im Jahr 1803 entdeckte chemische Element Palladium wurde nach diesem Asteroiden benannt.
+
+
+<h2>Umlaufbahn</h2>
+
+Pallas bewegt sich in einem mittleren Abstand von 2,77 AE in 4,62 Jahren um die Sonne. Die Bahnexzentrizität ist mit 0,230 relativ groß: Der Abstand von der Sonne variiert daher zwischen 2,14 AE im Perihel und 3,41 AE im Aphel. Die Umlaufbahn ist mit 34,9° auch stark gegen die Ekliptik geneigt, wodurch es häufig vorkommt, dass sich Pallas fernab der Ekliptik am Himmel aufhält.
+<p>
+Während der Opposition erreicht sie eine scheinbare Helligkeit von bis zu 7,0 mag. Sie ist damit nach (4) Vesta der zweithellste Asteroid am Nachthimmel.
+<p>
+
+ Eigenschaften  [Bearbeiten]Die Rotationsperiode von Pallas beträgt 7 Stunden und 49 Minuten. Ihre Oberfläche hat eine mittlere Albedo von 0,159. Die Masse wurde zu 1,21 × 10-10 Sonnenmassen (2,41 × 1020 kg) bestimmt. Aus der Beobachtung von Sternbedeckungen konnte die Größe von Pallas abgeleitet werden: Die Form von Pallas entspricht demnach einem triaxialen Ellipsoid mit Achsenlängen von 574 ± 10 km, 526 ± 3 km und 501 ± 2 km. In guter Übereinstimmung damit wurde aus Beobachtungen des Infrared Astronomical Satellite ein mittlerer Durchmesser von 523 ± 20 km abgeleitet.
+<p>
+Pallas ist damit, nach Ceres, der zweitgrößte Himmelskörper des klassischen Hauptgürtels, wird an Masse aber sowohl von Ceres als auch von Vesta übertroffen.

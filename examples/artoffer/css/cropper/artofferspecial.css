@@ -1,0 +1,48 @@
+﻿body,
+.img-container {
+    background-color: #555;
+}
+
+.artOfferontainer {
+    padding: 0 1rem;
+}
+
+#dropdownFrameColors label,
+#dropdownFrameColors input {
+    cursor: pointer;
+}
+
+.header {
+    background-color: #000;
+    color: white;
+    padding: 1rem 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.img-container {
+    margin-bottom: 0;
+}
+
+.image-info {
+    background-color: #222;
+    color: #eee;
+    padding: 5px;
+}
+
+
+.b-space {
+    margin-bottom: 16px;
+}
+
+.btn-group-fake {
+    margin-bottom: 0.5rem;
+    margin-right: 0.25rem;
+}
+
+
+.btn-group,
+.docbuttons,
+.measure-group > * {
+    margin-bottom: 0.5rem;
+    margin-right: 0.25rem;
+}

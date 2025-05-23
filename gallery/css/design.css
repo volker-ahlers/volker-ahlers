@@ -1,0 +1,27 @@
+#slideshow {
+	margin: auto;
+}
+
+#slideshow img {
+	padding: 15px;
+	border: 1px solid #ccc;
+	background-color: #eee;
+}
+
+#choices {
+	background-color: #3322dd;
+	color: white;
+	font-weight: bold;
+}
+
+body {
+	color: white;
+	font-weight: bold;
+	background-color: #3322dd; 
+	text-align: center;
+}
+
+a {
+	color: #ddffff;
+	font-weight: bold
+}

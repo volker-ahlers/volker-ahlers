@@ -1,0 +1,40 @@
+[
+    {
+        "id": "Obst und Gemüse",
+        "name": "Obst und Gemüse",
+        "nrOfUnreadFiles": 0,
+        "facetteNavigation": [
+            {
+                "name": "Allesdoof"
+            },
+            {
+                "name": "KW21"
+            },
+            {
+                "name": "KW20"
+            },
+            {
+                "name": "Neu"
+            }
+        ]
+    },
+    {
+        "id": "Fleischtheke",
+        "name": "Fleischtheke",
+        "nrOfUnreadFiles": 0,
+        "facetteNavigation": [
+            {
+                "name": "Alle"
+            },
+            {
+                "name": "KW21"
+            },
+            {
+                "name": "KW20"
+            },
+            {
+                "name": "Neu"
+            }
+        ]
+    }
+]

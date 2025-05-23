@@ -1,0 +1,7 @@
+<h2>Guten Tag !</h2>
+<div ID="intro">
+<p>In diesem Kapitel 'Asteroiden' werden Sie in die Geheimnisse der Bruchstücke in unserem Sonnensystem eingeweiht.</p>
+<p>Wir hoffen, dass Sie bisher sehr erfolgreich sind und weiter mit großem Interesse unser kleines Planetenlernsystem verfolgen!</p>
+<p>Wir wünschen Ihnen viel Spaß!</p>
+<p>Nachdem Sie alles gelesen haben (was wir empfehlen), können Sie gerne Ihr Wissen testen und Fragen zu jedem Unterkapitel beantworten!</p>
+</div>

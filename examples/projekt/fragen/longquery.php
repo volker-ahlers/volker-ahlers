@@ -1,0 +1,9 @@
+[Settings]
+ParseMethod=0
+PHPPath=
+WebServerRoot=
+DocRoot=
+IncPath=
+[Files]
+0=C:\Programme\xampp\htdocs\ProjektT2\fragen\questusercount.php||
+Count=1

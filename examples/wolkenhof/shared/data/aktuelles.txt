@@ -1,0 +1,8 @@
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong><span style="font-size: medium; font-family: comic sans ms,sans-serif;">We proudly do present <img title="Cool" src="../shared/js/tiny_mce/plugins/emotions/img/smiley-cool.gif" border="0" alt="Cool" />:</span></strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img src="../shared/files/Beggars.jpeg" alt="" width="522" height="749" /></p>
+<p style="text-align: center;"><span style="font-size: medium; font-family: comic sans ms,sans-serif;">Wir erbitten auf jeden Fall eine Anmeldung!</span></p>
+<p style="text-align: center;"><span style="font-size: medium; font-family: comic sans ms,sans-serif;">Die Teilnehnerzahl ist begrenzt! Danke!</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: small;"><span style="font-family: comic sans ms,sans-serif; color: #000000;"><br /></span></span></p>

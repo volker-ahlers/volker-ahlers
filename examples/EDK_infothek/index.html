@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Infothek</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <script type="text/javascript" src="js/jQuery.1.9.1.js"></script>
+
+    <script type="text/javascript" src="js/jquery-ui-1.10.3.custom.min.js"></script>
+    <script type="text/javascript" src="js/jquery.tablesorter.2.10.3.js"></script>
+    <script type="text/javascript" src="js/jquery.tablesorter.widgets.js"></script>
+    <script type="text/javascript" src="js/jquery.tablesorter.pager.js"></script>
+
+    <script src="js/getData.js" type="text/javascript"></script>
+    <script src="js/initialize.js" type="text/javascript"></script>
+    <script src="js/listener.js" type="text/javascript"></script>
+    <script src="js/extensions.js" type="text/javascript"></script>
+
+    <script src="temp/themes.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="css/theme.jui.css"/>
+    <link id="switch1" rel="stylesheet" type="text/css" href="css/edeka/jquery-ui.css" />
+    <link id="switch2" rel="stylesheet" type="text/css" href="css/edeka/jquery.ui.theme.css"/>
+    <link rel="stylesheet" type="text/css" href="css/edeka.css"/>
+
+    <script>
+        var mode = 'test';
+        var logging = 'test';// logging an- bzw. aus
+        var rb = {"download": "Herunterladen", "mention": "Bemerkung", "name": "Bezeichner", "search": "Suche", "hidesearch": "Suche ausblenden", "showsearch": "Suche einblenden", "assortment": "Sortiment", "details": "Details", "preview": "Vorschau"};
+        var config = {"colWidthCheckboxColumn": '4%', "footer": false, "chosePageNum": true, "charNumToTextfield": 30, sortDate : {"date" : "created", "timestamp" : "creationDate"}, status : "status" };
+        var subNavOfFirstMainNav = [
+            {"id": "TWF5IDI0LCAyMDEzIDI6MDI6MDAgUE0gQ0VTVA", "name": "Obst und Gemüse", "nrOfUnreadFiles": 55, "facetteNavigation": [
+                {"name": "Alle"},
+                {"name": "KW21"},
+                {"name": "KW20"},
+                {"name": "Neu"}
+            ]},
+            {"id": "1547453578745152blubbllkdd", "name": "Fleischtheke", "nrOfUnreadFiles": 27, "facetteNavigation": [
+                {"name": "Alle"},
+                {"name": "KW21"},
+                {"name": "KW20"},
+                {"name": "Neu"}
+            ]}
+        ];
+        var tableConfig = [
+            {"mainNavId": "L2V0Yy9lZGVrYS9pbmZvdGhlay9Tb3J0aW1lbnRl", "columns": [
+                {"columnName": "Typ", "resourceDataField": "mimeType", "sortNumber": 1, "width": "10%", "toogle": false},
+                {"columnName": "Bezeichnung", "resourceDataField": "title", "sortNumber": 2, "width": "18%", "toogle": false, "showTooltip": true},
+                {"columnName": "Datum", "resourceDataField": "created", "sortNumber": 3, "width": "20%", "toogle": false, "showTooltip": false},
+                {"columnName": "Größe", "resourceDataField": "fileSizeFormatted", "sortNumber": 4, "width": "10%", "toogle": false, "showTooltip": false},
+                {"columnName": "", "resourceDataField": "status", "sortNumber": 5, "width": "7%", "toogle": false, "showTooltip": false},
+                {"columnName": "Sortiment", "resourceDataField": "assortment", "sortNumber": 6, "width": "17%", "toggle": true, "showTooltip": false}
+            ], "width": "10%", "showTooltip": false},
+            {"mainNavId": "L2V0Yy9lZGVrYS9pbmZvdGhlay9FQlVTIC0gSW5mb3M", "columns": [
+                {"columnName": "TypB", "resourceDataField": "mimeType", "sortNumber": 1, "width": "40px", "showTooltip": false},
+                {"columnName": "Bezeichnung", "resourceDataField": "title", "sortNumber": 2, "width": "auto", "showTooltip": true},
+                {"columnName": "DatumB", "resourceDataField": "created", "sortNumber": 3, "width": "80px", "toggle": true, "showTooltip": false},
+                //     {"columnName": "GrößeB", "resourceDataField": "fileSizeFormatted", "sortNumber": 4, "width": "10%", "showTooltip" : false},
+                {"columnName": "", "resourceDataField": "status", "sortNumber": 5, "width": "45px", "showTooltip": false},
+                {"columnName": "SortimentB", "resourceDataField": "assortment", "sortNumber": 6, "width": "auto", "showTooltip": false}
+            ], "width": "10%"},
+            {"mainNavId": "L2V0Yy9lZGVrYS9pbmZvdGhlay9Cw7Zyc2U", "columns": [
+                {"columnName": "TypC", "resourceDataField": "mimeType", "sortNumber": 1, "width": "10%", "showTooltip" : false},
+                {"columnName": "Bezeichnung", "resourceDataField": "title", "sortNumber": 2, "width": "auto", "showTooltip": true},
+                {"columnName": "DatumC", "resourceDataField": "created", "sortNumber": 3, "width": "70px", "showTooltip": false},
+                {"columnName": "GrößeC", "resourceDataField": "fileSizeFormatted", "sortNumber": 4, "width": "70px", "showTooltip": false},
+                {"columnName": "", "resourceDataField": "status", "sortNumber": 5, "width": "45px", "showTooltip": false}
+                //       {"columnName": "SortimentC", "resourceDataField": "assortment", "sortNumber": 6, "width": "20%", "showTooltip" : false},
+            ], "width": "10%", "showTooltip": false},
+            {"mainNavId": "L2V0Yy9lZGVrYS9pbmZvdGhlay9WZXJ0cmllYnNzY2hpZW5l", "columns": [
+                {"columnName": "TypD", "resourceDataField": "mimeType", "sortNumber": 1, "width": "25p", "showTooltip": false},
+                {"columnName": "Bezeichnung", "resourceDataField": "title", "sortNumber": 2, "width": "auto", "showTooltip": true},
+                {"columnName": "DatumD", "resourceDataField": "created", "sortNumber": 3, "width": "75px", "showTooltip": false},
+                {"columnName": "GrößeD", "resourceDataField": "fileSizeFormatted", "sortNumber": 4, "width": "48px", "showTooltip": false},
+                {"columnName": "", "resourceDataField": "status", "sortNumber": 5, "width": "30px", "showTooltip": false},
+                {"columnName": "SortimentD", "resourceDataField": "assortment", "sortNumber": 6, "width": "70px", "showTooltip": false}
+            ], "width": "10%"}
+        ];
+    </script>
+</head>
+<body>
+<div id="background"></div>
+<div id="progressbar">
+    <div class="progress-label"><h5>Die Daten werden geladen...</h5></div>
+</div>
+<div id="container" class="container-fluid">
+    <div id="row" class="row-fluid">
+
+        <div id="nav" role="navigation" class="maincathegory span2">
+            <a id="L2V0Yy9lZGVrYS9pbmZvdGhlay9Tb3J0aW1lbnRl" class="maincathegory closed"
+               data-maincategory="L2V0Yy9lZGVrYS9pbmZvdGhlay9Tb3J0aW1lbnRl" data-facette="alle" href="#">Sortimente</a>
+
+            <div id="a_L2V0Yy9lZGVrYS9pbmZvdGhlay9Tb3J0aW1lbnRl" class="subnavi1"></div>
+
+            <a id="L2V0Yy9lZGVrYS9pbmZvdGhlay9FQlVTIC0gSW5mb3M" class="maincathegory closed"
+               data-maincategory="L2V0Yy9lZGVrYS9pbmZvdGhlay9FQlVTIC0gSW5mb3M" data-facette="alle"
+               href="#">EBUS&nbsp;-&nbsp;Infos</a>
+
+            <div id="a_L2V0Yy9lZGVrYS9pbmZvdGhlay9FQlVTIC0gSW5mb3M" class="subnavi1"></div>
+
+            <a id="L2V0Yy9lZGVrYS9pbmZvdGhlay9Cw7Zyc2U" class="maincathegory closed"
+               data-maincategory="L2V0Yy9lZGVrYS9pbmZvdGhlay9Cw7Zyc2U" data-facette="alle" href="#">Börse</a>
+
+            <div id="a_L2V0Yy9lZGVrYS9pbmZvdGhlay9Cw7Zyc2U" class="subnavi1"></div>
+
+            <a id="L2V0Yy9lZGVrYS9pbmZvdGhlay9WZXJ0cmllYnNzY2hpZW5l" class="maincathegory closed"
+               data-maincategory="L2V0Yy9lZGVrYS9pbmZvdGhlay9WZXJ0cmllYnNzY2hpZW5l" data-facette="alle"
+               href="#">Vertriebsschiene</a>
+
+            <div id="a_L2V0Yy9lZGVrYS9pbmZvdGhlay9WZXJ0cmllYnNzY2hpZW5l" class="subnavi1"></div>
+        </div>
+
+        <div id="content" class="span7">
+            <div id="breadcrumb" class="ui-state-default ui-widget-header ui-corner-all">Sortimente</div>
+            <!-- ui-widget-header -->
+            <button id="togglesearch" class="showsearch">Suche einblenden</button>
+            <div id="inner">
+                <table id="files" class="grid">
+                    <thead>
+                    </thead>
+                    <tfoot>
+                    <tr>
+                        <th class="pager form-horizontal">
+                            <button type="button" class="btn first"><i class="icon-step-backward"></i></button>
+                            <button type="button" class="btn prev"><i class="icon-arrow-left"></i></button>
+                            <span class="pagedisplay"></span> <!-- this can be any element, including an input -->
+                            <button type="button" class="btn next"><i class="icon-arrow-right"></i></button>
+                            <button type="button" class="btn last"><i class="icon-step-forward"></i></button>
+                            <select class="pagesize input-mini" title="Select page size">
+                                <option value="8" selected="selected">8</option>
+                                <option value="10">10</option>
+                                <option value="20">20</option>
+                                <option value="30">30</option>
+                                <option value="40">40</option>
+                            </select>
+                            <select class="pagenum input-mini" title="Select page number"></select>
+                        </th>
+                    </tr>
+                    </tfoot>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <div id="buttons">
+                <button id="read" class="ui-state-default ui-corner-all" value="1">Gelesen</button>
+                <button id="unread" class="ui-state-default ui-corner-all" value="0">Ungelesen</button>
+            </div>
+        </div>
+        <div id="view" class="span3">
+            <div id="detailscontainer" class="ui-widget-content ui-corner-all">
+                <div id="details" class="details ui-widget-content ui-corner-all">Details</div>
+
+                <div id="showdetails"></div>
+                <button data-resourceid="" class="download" id="downloadResource" value="load">Herunterladen
+                </button>
+
+            </div>
+
+            <div id="previewcontainer" class=" ui-widget-content ui-corner-all">
+                <div id="preview" class="preview ui-widget-content ui-corner-all">Vorschau</div>
+                <div id="showpreview"></div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">Infothek v0.1</div>
+</div>
+</body>
+</html>

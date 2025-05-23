@@ -1,0 +1,30 @@
+<h2>Entstehung von Planeten (Moderne Theorie) </h2>
+<p>Die modernen Theorien der Planetenentstehung sind eng verkn&uuml;pft mit der Entstehung neuer Sterne. &Auml;hnlich wie bei Laplace geht man davon aus, dass eine pr&auml;solare Gas/Staubwolke kollabiert. Durch die Erhaltung des Drehimpulses bildet sich eine protoplanetare Gas- und Staubscheibe, aus der die Planeten entstehen. Die Entstehung von Planeten und Planetensystemen ist bis heute (2006) noch nicht vollst&auml;ndig erkl&auml;rt. Die Theorien liefern aber heute schon einige befriedigende Antworten. Im Folgenden werden zwei weit verbreitete Theorien dargestellt. Neben diesen gibt es noch eine Vielzahl von anderen Theorien, insbesondere von hybriden Modellen. <strong><em></em></strong></p>
+<h2>Core Accreation M odell </h2>
+<p>Das Szenario f&uuml;r das Core Accreation Modell sieht in etwa so aus: </p>
+<ul>
+  <li>Der Staub migriert langsam in die &Auml;quatorialebene der protoplanetaren Scheibe. Dabei kollidieren einzelne Staubpartikel und die einzelnen etwa ein Mikrometer gro&szlig;en Staubpartikel kleben zusammen, so dass die Staubk&ouml;rner langsam wachsen. </li>
+  <li>In der Zentralebene der Scheibe angekommen, wachsen die Staubk&ouml;rner weiter an, bis sie Meter bis Kilometer gro&szlig;e Objekte (Planetesimale) bilden. Dieser Prozess geh&ouml;rt nach wie vor zu den ungel&ouml;sten Problemen des Core Accreation Modells, da dieser Prozess sehr schnell ablaufen muss. </li>
+  <li>Die gr&ouml;&szlig;ten dieser Objekte haben einen gr&ouml;&szlig;eren Wirkungsquerschnitt und beginnen die umliegenden, kleineren Objekte aufzufressen, wodurch sie noch gr&ouml;&szlig;er werden. Diese Prozesse nennt man &quot;Runaway Growth&quot;. Dadurch &uuml;berleben nur die gr&ouml;&szlig;ten Objekte, die weit genug voneinander separiert sind. </li>
+  <li>Hat ein Objekt die kritische Gr&ouml;&szlig;e von etwa 10 Erdmassen erreicht, so beginnt es das umliegende Gas zu akkretieren. Es entsteht ein Gasgigant. </li>
+</ul>
+<h3><a name="Bemerkungen"></a>Bemerkungen </h3>
+<ul>
+  <li>Durch das Beobachten von Clustern von jungen Sternen wei&szlig; man, dass die Gasscheibe um die neu entstandenen Sterne nach etwa 6 bis 10 Millionen Jahren verschwindet. Daher m&uuml;ssen alle Prozesse, die zur Entstehung von Gasgiganten f&uuml;hren, innerhalb dieser 6 bis 10 Millionen Jahren passieren. </li>
+  <li>Da in der N&auml;he des Zentralgestirns weniger Masse in der protoplanetaren Scheibe liegt, haben die inneren Planeten keine M&ouml;glichkeit, gen&uuml;gend gro&szlig; zu werden, um zu Gasgiganten anzuwachsen. </li>
+  <li>In vielen extrasolaren Planetensystemen beobachtet man, dass es massive Planeten relativ nahe beim Zentralgestirn gibt. Die Erkl&auml;rung daf&uuml;r liefert die Migration dieser Gasgiganten. Durch die Interaktion mit den umliegenden Gas und Planetesimalen verliert der Planet an Drehimpuls und wandert in Richtung des Zentralgestirns. Noch ungekl&auml;rt ist, welcher Prozess dazu f&uuml;hrt, dass die Migration stoppt. </li>
+  <li>Das Modell erkl&auml;rt relativ gut den chemischen Gradient, der im Sonnensystem beobachtet wird. </li>
+</ul>
+<h2><a name="Gravitations-Instabilit.C3.A4ten-Modell"></a>Gravitations-Instabilit&auml;ten-Modell </h2>
+<p>Das Gravitations-Instabilit&auml;ten-Modell geht davon aus, dass die protoplanetare Scheibe gen&uuml;gend massiv ist, so dass ihre Selbstgravitation nicht vernachl&auml;ssigt werden darf. Wird das sogenannte Toomre-Kriterium erf&uuml;llt, beginnt die protoplanetare Scheibe gravitativ instabil zu werden. Dies f&uuml;hrt zun&auml;chst einmal dazu, dass sich Spiralarme ausbilden, und sich das Gas lokal stark verdichtet. Im Extremfall kann das dazu f&uuml;hren, dass die Gasklumpen durch die Selbstgravitation dominiert werden und zu Gasgiganten zusammenfallen. </p>
+<h3><a name="Bemerkungen_2"></a>Bemerkungen </h3>
+<ul>
+  <li>Nach dem Gravitations-Instabilit&auml;ten-Modell w&auml;re es theoretisch m&ouml;glich, dass es Gasgiganten gibt, die keinen festen Kern besitzen. In der Tat ist es so, dass bis heute noch nicht schl&uuml;ssig gezeigt werden konnte, ob der Jupiter einen festen Kern besitzt oder nicht. </li>
+  <li>Das Gravitations-Instabilit&auml;ten-Modell besitzt gegen&uuml;ber dem Core-Accreation-Modell den Vorteil, dass es relativ rasch geht, bis ein Gasgigant entsteht. Zudem erkl&auml;rt es ohne Weiteres, wieso einzelne Exoplaneten derma&szlig;en exzentrische Bahnen aufweisen. </li>
+  <li>Der Hauptkritikpunkt am Gravitations-Instabilit&auml;ten-Modell ist, dass es eine schwere, wenig turbulente protoplanetare Scheibe voraussetzt. </li>
+  <li>Es erkl&auml;rt nicht, wieso es auch terrestrische Planeten gibt. </li>
+</ul>
+<h2><a name="Planemos"></a>Planemos </h2>
+<p>Himmelsk&ouml;rper, die die Gr&ouml;&szlig;e und Masse eines Planeten haben, aber keinen Stern umkreisen, werden auch – im engeren Sinn – als Planemos bezeichnet. Im Unterschied zu Exoplaneten, die von ihren Fixsternen erw&auml;rmt werden k&ouml;nnen, ist auf Planemos ohne Fixstern eine Kosmochemie, d. h. eine chemische Evolution komplizierter, organischer Verbindungen, kaum m&ouml;glich. </p>
+<h3>Sonstiges </h3>
+<p>Die erste weiche Landung auf einem anderen Planeten gelang der Menschheit am 15. Dezember 1970 auf der Venus mit der sowjetischen Sonde Venera 7. Mit Venera 3 und Venera 4 gelangen zuvor erste harte und fast-weiche Planetenlandungen am 1. M&auml;rz 1966 und am 18. Oktober 1967, wobei Venera 4 &uuml;ber die gesamte Betriebszeit von 96 Minuten aus der Venusatmosph&auml;re erfolgreich Daten &uuml;bertrug. </p>

@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">   
+<head>
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<title>Anmeldung</title>
+<link rel="stylesheet" type="text/css" href="format.css" />
+<script type="text/javascript" src="js/globals.js"></script>
+<script type="text/javascript" src="js/cookies.js"></script>
+<script type="text/javascript" src="js/hilfe.js"></script>
+<script type="text/javascript">
+
+function pruefen(bool){
+	var user=document.getElementById("text").value; 
+	
+	if(user==""){ alert("Bitte machen Sie eine Eingabe !");}
+			if(user!=""){
+			if(!document.cookie || bool){	writecookie(user); } 		
+			} 
+		return (user!="");
+		}
+		
+function writecookie(user){	
+	var f = document.formular;
+		for (var i=0;i<f.geschlecht.length;i++)
+		if (f.geschlecht[i].checked){			//Radiobuttonwert sichern
+			var sex=f.geschlecht[i].value;	//alert(sex);
+			savecookie(user,sex,"x","x","x");	
+			coo.user=user;
+			}
+		}
+		
+		
+function cooky(){
+	if(!document.cookie){  
+	helpme();	
+		//Hilfe = window.open("hilfe.html", "Hilfe", "height=600,width=800");
+		//Hilfe.focus();
+		} else{	
+		var bla=readname();
+		document.formular.textfeld.value =bla;
+	}
+}
+
+</script>
+</head>
+<body onload="cooky();">
+ <div style="text-align:center;position:absolute; top:10px;"> 
+ <form name="formular" action="game.html" method="post" accept-charset="ISO-8859-1">
+  <table width="1020" border="0" id="anm" cellspacing="5" cellpadding="10">
+    <tr align="center">
+      <td >Bitte&nbsp;wählen&nbsp;Sie&nbsp;Ihre&nbsp;Spielfigur&nbsp;aus . . .</td>
+    </tr>
+    <tr>
+       <td>
+          <table  border="0" align="center" id="innen" cellspacing="10" cellpadding="10">
+	      <tr>
+              <td align="right"><img src="./anmeldung/images/frau.jpg" alt="frau" /></td> <td align="left"><img src="./anmeldung/images/mann.jpg" alt="mann" /></td>
+	      </tr>
+	      <tr>
+              <td align="center"><input type="radio" name="geschlecht" value="frau" checked="checked" />
+	      </td>
+	      <td align="center"><input type="radio" name="geschlecht" value="mann" /></td>
+          </tr>
+          </table>    
+       </td>
+    </tr>
+    <tr>
+       <td>Bitte&nbsp;geben&nbsp;Sie&nbsp;einen&nbsp;Spielernamen&nbsp;ein . . . </td>
+    </tr>
+    <tr>
+	   <td><input type="text"  id="text" name="textfeld" value="" /></td>
+	</tr>
+	<tr>
+	   <td>Wollen&nbsp;Sie&nbsp;ein&nbsp;neues&nbsp;oder&nbsp;ein&nbsp;gespeichertes&nbsp;Spiel&nbsp;beginnen&nbsp;?</td>
+	</tr>
+	<tr>
+	   <td>
+	      <table  border="0" align="center" id="innen2" cellspacing="10" cellpadding="10">
+		  <tr>
+		     <td align="center"><input type="submit" value="&nbsp;&nbsp;neues&nbsp;Spiel&nbsp;&nbsp;&nbsp;" onclick="return pruefen(1);" /></td> 
+		     <td align="center"><input type="submit"  value="weiterspielen" onclick="return pruefen(0);" /></td>
+          </tr>
+          </table>    
+       </td>
+    </tr>
+  </table>
+  </form>
+</div> 
+
+ <div style="text-align:left;position:absolute;top:30px;left:800px;">
+   <input type="submit" value="&nbsp;&nbsp;Hilfe&nbsp;&nbsp;" onClick="helpme();" />  
+ </div>
+ 
+</body>
+</html>

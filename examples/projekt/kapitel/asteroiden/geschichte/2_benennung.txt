@@ -1,0 +1,17 @@
+<h2>Die Benennung von Asteroiden</h2>
+Die Namen der Asteroiden setzen sich aus einer vorangestellten Nummer und einem Namen zusammen. Die Nummer gab früher die Reihenfolge der Entdeckung des Himmelskörpers an. Heute ist sie eine rein numerische Zählform, da sie erst vergeben wird, wenn die Bahn des Asteroiden gesichert ist (das Objekt ist jederzeit wieder auffindbar). Das kann durchaus auch erst Jahre nach der Erstbeobachtung erfolgen.
+<p>
+Der Entdecker hat innerhalb von 10 Jahren nach der Nummerierung das Vorschlagsrecht für die Vergabe eines Namens. Dieser muss aber durch eine Kommission der Internationalen Astronomischen Union bestätigt werden, da es Richtlinien für die Namen astronomischer Objekte gibt. Dementsprechend existieren zahlreiche Asteroiden zwar mit Nummer, aber ohne Namen, vor allem in den oberen Zehntausendern.
+<p>
+Neuentdeckungen, für die noch keine Bahn mit ausreichender Genauigkeit berechnet werden konnte, werden mit dem Entdeckungsjahr und einer Buchstabenkombination, beispielsweise 2003 UB313, gekennzeichnet. Die Buchstabenkombination setzt sich aus dem ersten Buchstaben für die Monatshälfte (beginnend mit A und fortlaufend bis Y ohne I) und einem fortlaufenden Buchstaben (A bis Z ohne I) zusammen. Wenn mehr als 25 Kleinplaneten in einer Monatshälfte entdeckt werden – was heute die Regel ist – beginnt die Buchstabenkombination von vorne, gefolgt von jeweils einer je Lauf um eins erhöhten laufenden Nummer.
+<p>
+Der erste Asteroid wurde 1801 von Giuseppe Piazzi an der Sternwarte Palermo auf Sizilien entdeckt. Piazzi taufte den Himmelskörper auf den Namen Ceres Ferdinandea. Die römische Göttin Ceres ist Schutzpatronin der Insel Sizilien. Mit dem zweiten Namen wollte Piazzi König Ferdinand IV., den Herrscher über Italien und Sizilien ehren. Dies missfiel der internationalen Forschergemeinschaft und man ließ ihn weg. Die offizielle Bezeichnung des Asteroiden lautet demnach (1) Ceres.
+<p>
+Bei den weiteren Entdeckungen wurde die Nomenklatur beibehalten und die Asteroiden wurden nach römischen und griechischen Göttinnen benannt; dies waren  Pallas,  Juno,  Vesta,  Astraea,  Hebe, usw.
+<p>
+Als immer mehr Asteroiden entdeckt wurden, gingen den Astronomen die antiken Gottheiten aus. So wurden Asteroiden unter anderem nach den Ehefrauen der Entdecker, zu Ehren historischer Persönlichkeiten oder Persönlichkeiten des öffentlichen Lebens, Städten und Märchenfiguren benannt. Beispiele hierfür sind die Asteroiden (21) Lutetia, (216) Kleopatra, (719) Albert, (1773) Rumpelstilz, (5535) Annefrank, (17744) Jodiefoster.
+<p>
+Neben Namen aus der griechisch-römischen Mythologie kommen auch Namen von Gottheiten aus anderen Kulturkreisen zur Anwendung, insbesondere für neu entdeckte, größere Objekte, wie (20000) Varuna, (50000) Quaoar und (90377) Sedna.
+<p>
+Monde von Asteroiden erhalten zu ihrem Namen keine permanente Nummer und gelten nicht als Asteroiden bzw. Kleinkörper, da sie nicht selbstständig die Sonne umlaufen.
+

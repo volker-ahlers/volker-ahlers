@@ -1,0 +1,14 @@
+<h2>Transneptunische oder Kuipergürtel-Objekte</h2>
+Im äußeren Sonnensystem, jenseits der Neptunbahn, bewegen sich die transneptunischen Objekte, von denen die meisten als Teil des Kuipergürtels betrachtet werden (Kuiper belt objects; KBO), weshalb die Begriffe Transneptunisches Objekt und Kuipergürtel meist synonym verwendet werden. Dort wurden die bislang größten Asteroiden oder Planetoiden entdeckt. Die Objekte dieser Zone lassen sich anhand ihrer Bahneigenschaften in drei Gruppen einteilen:
+<ul>
+  <li><strong>Resonante KBOs </strong>: Die Bahnen dieser Objekte stehen in Resonanz zu Neptun. Die bekanntesten Vertreter sind die Plutinos  zu denen der Zwergplanet (134340) Pluto  und auch (90482) Orcus  geh&ouml;ren.
+  <li><strong>Cubewanos </strong>: Diese Objekte bewegen sich in nahezu kreisrunden Bahnen mit Neigungen unter 30&deg; in einer Entfernung zwischen 42 und 50 AE um die Sonne. Bekannte Vertreter sind (20000) Varuna  und (50000) Quaoar .
+  <li><strong>gestreute KBOs </strong>: Himmelk&ouml;rper dieser Gruppe besitzen sehr exzentrische Orbits deren Aphel in bis zu 1000 AE Entfernung liegen kann, w&auml;hrend das Perihel meist bei 35 AE liegt. Teil dieser Gruppe ist der gr&ouml;&szlig;te bekannte Zwergplanet (136199) Eris . </li>
+</ul>
+<h2>Asteroiden, die sich auf Planetenbahnen bewegen</h2>
+Asteroiden, die sich in den Lagrange-Punkten der Planeten befinden, nennt man Trojaner. Zuerst entdeckte man diese Begleiter bei Jupiter. Sie bewegen sich auf der Jupiterbahn vor beziehungsweise hinter dem Planeten. Jupitertrojaner sind beispielsweise (588) Achilles und (1172) Aeneas. 1990 wurde der erste Marstrojaner entdeckt und (5261) Eureka genannt. In der Folgezeit wurden vier weitere Marstrojaner entdeckt. Auch Neptun besitzt Trojaner.
+
+Manche Asteroiden bewegen sich auf einer Hufeisenumlaufbahn auf einer Planetenbahn, wie z.B. der Asteroid 2002 AA29 in der Nähe der Erde.
+
+<h2>Einzelobjekte</h2>
+Im Sonnensystem bewegen sich einige Asteroiden, welche Charakteristika aufweisen, die sie mit keinem anderen Objekt teilen. Dazu zählen u.a. (944) Hidalgo, der sich auf einer stark exzentrischen, kometenähnlichen Umlaufbahn zwischen Saturn und dem Hauptgürtel bewegt, und (279) Thule, der sich als einziger Vertreter einer potenziellen Gruppe von Asteroiden in 4:3-Resonanz zu Jupiter bei 4,3 AE um die Sonne bewegt. Ein weiteres Objekt ist (90377) Sedna, ein relativ großer Asteroid der weit außerhalb des Kuipergürtels eine exzentrische Umlaufbahn besitzt die ihn bis zu 900 AE von der Sonne entfernt.

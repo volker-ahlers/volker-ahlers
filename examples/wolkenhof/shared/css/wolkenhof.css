@@ -1,0 +1,369 @@
+body {
+    background-color:#DDFFDD;
+    color: #009999;
+    font-family: Verdana, sans-serif;
+    font-size:12px;
+    text-align:center;
+    padding:0px;
+    margin:0px;
+}
+
+#container {
+    margin:0 auto;
+    margin-top:5px;
+    border:solid 1px;
+    width:825px;
+    -moz-box-shadow: 10px 10px 40px #000; /* FF3.5+ */
+    -webkit-box-shadow: 10px 10px 40px #000; /* Saf3.0+, Chrome */
+    box-shadow: 10px 10px 40px #000; /* Opera 10.5, IE 9.0 */
+    border-collapse: collapse;
+    display: table;
+}
+
+#content_right{
+    vertical-align: top;
+    background-image: url(../img/back.gif);
+    background-repeat: repeat-y;
+    padding:35px 39px 50px 81px;
+    width:500px;
+    display: table-cell;
+}
+#content_right table{
+	width: 400px; 
+	margin: auto;
+}
+#content_right table.error{
+	margin-top: 25%;
+}
+/*-----------------------navigation-----------------------------------*/
+nav{
+	vertical-align: top;
+	width:130px;
+    padding: 65px 20px 0 53px;
+	background-image: url(../img/back.gif);
+	background-repeat: repeat-y;
+    font-size: 13px;
+    min-height: 500px;
+    display: table-cell;
+}
+
+nav img{
+    position: relative;
+    margin:0 0 31px 0;
+    border:2px solid;
+    padding: 10px;
+}
+nav a {
+    display: block;
+    margin-bottom: 1px;
+    text-decoration: none;
+    padding: 1px 0;
+    border: 1px solid;
+}
+nav a:link {
+    color: white; 
+	background-color: #109999; 
+}
+nav a:visited {
+    color: white; 
+	background-color: #109999;
+}
+nav a:hover {
+    color: #109999; 
+	background-color: white;
+}
+nav a:active {
+    color: blue; 
+	background-color: white;
+}
+
+/*----index----*/
+.counter {
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#teaser {
+    margin: 20px 0;
+}
+
+/*-----chronik, selbstdarstellung---*/
+#chronik {
+    padding-top: 20px;
+}
+#chronik p:first-letter,
+#selbstdarstellung p:first-letter {
+    font-size:16pt;
+    font-weight:bold;
+    color:#008888;
+}
+
+.clear {
+    clear: both;
+}
+
+.images {
+    text-align: left;
+    margin-left: 44px;
+    padding-top: 3px;
+}
+
+/*wegbeschreibung*/
+div#gmaps {
+    padding: 30px 0 30px 38px;
+}
+
+iframe {
+    display: block;
+    margin: 30px 0 10px 38px;
+}
+
+a.small{
+    font-size: 10px;
+}
+.anfahrt{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 34px 0 13px 0;
+}
+
+.beschreibung {
+    line-height: 28px;
+    width:444px;
+    margin: 0 auto;
+}
+
+.al{
+    background-image: url(../img/weg.ht1.gif);
+}
+
+.ar{
+    background-image: url(../img/weg.ht2.gif);
+}
+
+span.al,
+span.ar {
+    display: inline-block;
+    width:20px;
+    height:15px;
+    background-repeat: no-repeat;
+}
+
+p.end {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+/*links*/
+div#links
+{
+    width:   450px;
+    margin-top:74px;
+    padding-left: 6px;
+}
+div#links div.head
+{
+    font-weight:bold;
+    float:left;
+    text-align:left;
+    margin-bottom:20px;
+}
+div#links span
+{
+    font-weight:normal;
+    float:left;
+}
+
+div#links a
+{
+    float:right;
+    position:relative;
+	text-decoration: none;
+    font-weight: bold;
+}
+
+div#links a img
+{
+    position:relative;
+    top: 0px;
+}
+
+div#links a img#baubiologie
+{
+    top: -4px;
+}
+
+.last_line
+{
+    margin-top:5px;
+}
+
+div#links .clear{
+    border-bottom: 2px solid #F0F0F0;
+    margin: 3px 0 8px 0;
+}
+
+/*kontakt*/
+.invalid{
+    color:orange;
+    font-weight:bold;
+}
+#text_box {width:250px;}
+#impressum {text-align:justify;}
+#impressum h2, h3{
+    text-align:center;
+}
+
+#vermietung_content{
+        margin:50px 0 15px 0;
+}
+
+h1, h2{
+    font-size: 22pt; 
+    color: #0055aa;
+    font-weight:400;
+    font-style:	normal;
+}
+
+h2{
+    font-size: 18pt;
+}
+
+/*------------------GB-----------*/
+#div_gbInhalt td:hover{
+    color: #0000AA;
+    font-weight: bold;
+}
+
+.contentlink{
+    color: #000066;
+    font-weight: bold;
+} 
+
+table.gaestebucheintrag td {
+	text-align: left;
+	vertical-align: top;
+}
+table.gaestebucheintrag td.center{
+	text-align: center;
+}
+table.gaestebucheintrag td:first-child {
+	width: 25%;
+}
+table.gaestebucheintrag td:last-child {
+ width: 75%;
+ padding-right: 10%;
+}
+table.gaestebucheintrag td input[type='text'],
+table.gaestebucheintrag td select,
+table.gaestebucheintrag td textarea{
+ width: 100%;
+}
+#div_gbInhalt {
+	padding-top:15px;
+	height:470px;
+	overflow-y:auto;
+	border: 1px solid;
+	border-color:#009999;
+    text-align: left;
+    font-size: 12px;
+}
+.autor div{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.morelink {
+
+}
+table.gaestebucheintrag .morelink:before {
+	font-size: 9px;
+    letter-spacing: -1px;
+	color: #517AC4;
+    content: "\00BB";
+	margin: 0 3.5em 0 .5em;
+	vertical-align: top;
+}
+
+.morelink:visited {
+    color: #DF0024;
+}
+.latestnews {
+    font-weight: bold;
+    border-bottom: dotted 2px;
+}
+.contentlink:hover{
+    color: #AA0000;
+}
+
+.uline {
+    border-bottom: dotted 2px;
+    border-color: #009999;    
+}
+/*-----------------------Admin Galerie-----------------------------------*/
+#slideshow, #overlook {
+    margin: auto;
+}
+
+#show{
+	margin-top:70px;
+	height:500px;
+}
+#overlook {
+    text-align:left;
+    padding:3px;
+    border:solid 1px;
+    width:430px;
+}
+#showimage{
+    position:absolute;
+    border: 1px solid;
+    padding:10px;
+    background-color:#55BBBB;
+}
+
+/*TAGS*/
+.hidden
+{
+   display:none;
+}
+.left
+{
+   float:left;
+}
+.right
+{
+   float:right;
+}
+
+ /*kontakt_form*/
+#formular {
+	margin:0 auto;
+        width:380px;
+        margin-bottom:35px;
+}
+
+form#contact label{
+    float:left;
+    text-align:left;
+    margin-bottom:5px;
+}
+
+form#contact input{
+    float:right;
+    margin-bottom:5px;
+}
+
+form#contact input[type=submit]{
+    float:right;
+    margin-right:-3px;
+}
+form#contact textarea
+{
+    width: 99%;
+    float:left;
+    margin: 3px 0 10px 0;
+}

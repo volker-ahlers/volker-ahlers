@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<?php include_once("switch.php") ?>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+    <title>Interseroh Cerulean Example</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="all">
+    <link rel="stylesheet" type="text/css" href="css/interseroh-bootstrap.css" media="all">
+    <link rel="stylesheet" type="text/css" href="css/individual.css" media="all">
+    <link rel="stylesheet" type="text/css" href="css/applauncher.css" media="all">
+    <link rel="stylesheet" type="text/css" href="css/topmenubar.css" media="all">
+    <script src="js/jquery-1.11.1.js" type="text/javascript"></script>
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+    <script>
+        $(function(){function t(t){var n=(t=t.replace(/×/g,"&times;").replace(/«/g,"&laquo;").replace(/»/g,"&raquo;").replace(/←/g,"&larr;").replace(/→/g,"&rarr;")).split(/\n/);n.shift(),n.splice(-1,1);var o=n[0].length-n[0].trim().length,a=new RegExp(" {"+o+"}");return n=n.map(function(t){return t.match(a)&&(t=t.substring(o)),t}),n=n.join("\n")}$(window).scroll(function(){var t=$(document).scrollTop();$(".splash").css({"background-position":"0px -"+(t/3).toFixed(2)+"px"}),t>50?$("#home > .navbar").removeClass("navbar-transparent"):$("#home > .navbar").addClass("navbar-transparent")}),$("a[href='#']").click(function(t){t.preventDefault()});var n=$("<div id='source-button' class='btn btn-primary btn-xs'>&lt; &gt;</div>").click(function(){var n=$(this).parent().html();n=t(n),$("#source-modal pre").text(n),$("#source-modal").modal()});$('.bs-component [data-toggle="popover"]').popover(),$('.bs-component [data-toggle="tooltip"]').tooltip(),$(".bs-component").hover(function(){$(this).append(n),n.show()},function(){n.hide()})});
+    </script>
+    <style>
+        body{min-width:0;margin-top:0;padding-top:0}body > .navbar{-webkit-transition:background-color .3s ease-in;transition:background-color .3s ease-in}@media (min-width: 768px){body > .navbar-transparent{background-color:transparent}body > .navbar-transparent .navbar-nav > .open > a{background-color:transparent!important}}#home{padding-top:0}#home .navbar-brand{padding:13.5px 15px 12.5px}#home .navbar-brand > img{display:inline;margin:0 10px;height:100%}#banner{min-height:300px;border-bottom:none}.table-of-contents{margin-top:1em}.page-header h1{font-size:4em}.bs-docs-section{margin-top:6em}.bs-docs-section h1{padding-top:100px}.bs-component{position:relative}.bs-component .modal{position:relative;top:auto;right:auto;left:auto;bottom:auto;z-index:1;display:block}.bs-component .modal-dialog{width:90%}.bs-component .popover{position:relative;display:inline-block;width:220px;margin:20px}#source-button{position:absolute;top:0;right:0;z-index:100;font-weight:700}.nav-tabs{margin-bottom:15px}.progress{margin-bottom:10px}footer{margin:5em 0}footer li{float:left;margin-right:1.5em;margin-bottom:1.5em}footer p{clear:left;margin-bottom:0}.splash{padding:9em 0 2em;background-color:#141d27;background-image:url(../img/bg.jpg);background-size:cover;background-attachment:fixed;color:#fff;text-align:center}.splash .logo{width:160px}.splash h1{font-size:3em}.splash #social{margin:2em 0}.splash .alert{margin:2em 0}.section-tout{padding:4em 0 3em;border-bottom:1px solid rgba(0,0,0,.05);background-color:#eaf1f1}.section-tout .fa{margin-right:.5em}.section-tout p{margin-bottom:3em}.section-preview{padding:4em 0}.section-preview .preview{margin-bottom:4em;background-color:#eaf1f1}.section-preview .preview .image{position:relative}.section-preview .preview .image:before{box-shadow:inset 0 0 0 1px rgba(0,0,0,.1);position:absolute;top:0;left:0;width:100%;height:100%;content:"";pointer-events:none}.section-preview .preview .options{padding:1em 2em 2em;border:1px solid rgba(0,0,0,.05);border-top:none;text-align:center}.section-preview .preview .options p{margin-bottom:2em}.section-preview .dropdown-menu{text-align:left}.section-preview .lead{margin-bottom:2em}@media (max-width: 767px){.section-preview .image img{width:100%}}.sponsor #carbonads{max-width:240px;margin:0 auto}.sponsor .carbon-text{display:block;margin-top:1em;font-size:12px}.sponsor .carbon-poweredby{float:right;margin-top:1em;font-size:10px}@media (max-width: 767px){.splash{padding-top:4em}.splash .logo{width:100px}.splash h1{font-size:2em}#banner{margin-bottom:2em;text-align:center}}
+    </style>
+</head>

@@ -1,0 +1,58 @@
+/* CSS Document */
+
+body{
+ background-color: #000033;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ color:#ffffff;
+ text-align:justify;
+
+	margin-left:  10px;
+	margin-top:   10px;
+	margin-right: 50px; 
+}
+
+
+h1,h2{ font-family:Verdana, Arial, Helvetica, sans-serif; }
+h2{font-size: 18px;}
+a:link{font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none; font-weight:bold;color: #33eeff;text-align:left;margin-right: 50px; }
+a:visited{font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none; font-weight:bold; color: #33aaee;margin-right: 50px; }
+a:active{font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none; font-weight:bold; color: #4477ff;margin-right: 50px; }
+a:hover{font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none; font-weight:bold;color: #ff0044;margin-right: 50px; }
+
+#head{font-family:Verdana, Arial, Helvetica, sans-serif;font-size: 12px;text-decoration:none; font-weight:bold; color: #33aaee;}
+
+#ct{text-align:center;}
+#ober{font-size: 18px;}
+#unter{font-size: 14px;margin-left: 10px;}
+#frage{font-size: 14px;margin-left:  5px;}
+#drunter{font-size: 10px;margin-left: 20px;}
+#wissen{font-size: 18px;font-weight:bold;color: #33eeff;text-align:left;}
+#fragen{font-size: 12px; margin-left: 20px;}
+#intro{font-size: 14px; margin-left: 20px;}
+#los{color: #ffffaa;}
+#pro{color: #ff0000;}
+#mail{margin: 0 0 25px 35px;}
+#foto a img{
+float:right;
+height:10%;
+width:10%;
+border: 1px solid #000000;
+margin: 23px 0 0 10px;
+}
+
+#foto img:hover {
+width:50%;
+height:50%;
+}/*safari gecko opera*/
+
+
+#foto a:hover img{
+width:50%;
+height:50%;
+}/*IE*/
+
+#foto a:hover{
+padding:0;
+}
+ 
